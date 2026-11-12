@@ -1,0 +1,12 @@
+# vsim -c -lib C:/Work/.tmp/i2c-port-check-20261104/work tb_pkg_boundaries -do "run -all; quit -f" 
+# Start time: 19:35:55 on Nov 04,2026
+# Loading sv_std.std
+# Loading C:/Work/.tmp/i2c-port-check-20261104/work.tb_pkg_boundaries
+# Loading C:/Work/.tmp/i2c-port-check-20261104/work.ass_i2c_slave_pkg_dec
+# run -all
+# STOP_DURING_ADDRESS: pkg_state=1 (IDLE=0 START=1)
+# NEW_ADDRESS_WHILE_WRITE: pkg_state=3 we=1 old_addr=1a new_address_byte=2b
+# ** Note: $finish    : tb_pkg_boundaries.sv(27)
+#    Time: 61 ns  Iteration: 0  Instance: /tb_pkg_boundaries
+# End time: 19:35:55 on Nov 04,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

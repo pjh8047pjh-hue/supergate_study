@@ -1,0 +1,47 @@
+{
+  "comparisons": 8520,
+  "report": [
+    {
+      "gap": 64,
+      "kind": "overview",
+      "halfCycleSamples": 524,
+      "signalSampleComparisons": 2620,
+      "mismatches": 0
+    },
+    {
+      "gap": 64,
+      "kind": "detail",
+      "halfCycleSamples": 20,
+      "signalSampleComparisons": 220,
+      "mismatches": 0
+    },
+    {
+      "gap": 65,
+      "kind": "overview",
+      "halfCycleSamples": 524,
+      "signalSampleComparisons": 2620,
+      "mismatches": 0
+    },
+    {
+      "gap": 65,
+      "kind": "detail",
+      "halfCycleSamples": 20,
+      "signalSampleComparisons": 220,
+      "mismatches": 0
+    },
+    {
+      "gap": 63,
+      "kind": "overview",
+      "halfCycleSamples": 524,
+      "signalSampleComparisons": 2620,
+      "mismatches": 0
+    },
+    {
+      "gap": 63,
+      "kind": "detail",
+      "halfCycleSamples": 20,
+      "signalSampleComparisons": 220,
+      "mismatches": 0
+    }
+  ]
+}

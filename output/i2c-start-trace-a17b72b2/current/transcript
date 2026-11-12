@@ -1,0 +1,33 @@
+# do trace.do
+# vsim -voptargs="+acc" work.tb_rx 
+# Start time: 11:10:13 on Nov 03,2026
+# Loading work.tb_rx
+# Loading work.i2c_master_top
+# Loading work.i2c_master_byte_ctrl
+# Loading work.i2c_master_bit_ctrl
+# Loading work.ass_i2c_slave
+# Loading work.ass_i2c_slave_rx
+# Loading work.ass_i2c_slave_rx_ctrl
+# Loading work.ass_i2c_slave_rf
+# TRACE_START: state=0 cnt= 0 oe=0 addr=00 rdata=xx
+# TRACE_START: state=0 cnt= 0 oe=0 addr=0e rdata=xx
+# TRACE_START: state=0 cnt= 0 oe=0 addr=0a rdata=f5
+# TRACE_FIRST_BIT: rdata=f5 oe=0 sda=1
+# TRACE_READ_ACK: ack_input=0 addr=0a
+# TRACE_FIRST_BIT: rdata=fb oe=0 sda=0
+# TRACE_READ_ACK: ack_input=0 addr=0b
+# TRACE_FIRST_BIT: rdata=77 oe=0 sda=0
+# TRACE_START: state=3 cnt= 0 oe=0 addr=0c rdata=77
+# TRACE_FIRST_BIT: rdata=77 oe=0 sda=1
+# TRACE_READ_ACK: ack_input=0 addr=0c
+# TRACE_FIRST_BIT: rdata=88 oe=0 sda=0
+# TRACE_READ_ACK: ack_input=0 addr=0d
+# TRACE_FIRST_BIT: rdata=xx oe=0 sda=0
+# TRACE_START: state=3 cnt= 0 oe=0 addr=0e rdata=xx
+# TRACE_START: state=0 cnt= 0 oe=0 addr=04 rdata=xx
+# ** Note: $stop    : tb_rx.v(84)
+#    Time: 450765 ns  Iteration: 0  Instance: /tb_rx
+# Break in Module tb_rx at tb_rx.v line 84
+# Stopped at tb_rx.v line 84
+# End time: 11:10:13 on Nov 03,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

@@ -1,0 +1,407 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/assignment_6/i2c_rx_assignment/design/sim
+vass_i2c_slave
+Z1 !s110 1794284582
+!i10b 1
+!s100 W`FBVkiTDDDWd13Vl2?de1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUj?7A1Q44ZN23<QO0^5OE2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1794210981
+8../rtl/ass_i2c_slave.v
+F../rtl/ass_i2c_slave.v
+!i122 1903
+L0 3 122
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1794284582.000000
+!s107 ../rtl/ass_i2c_slave.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave.v|
+!i113 1
+Z6 tCvgOpt 0
+vass_i2c_slave_pkg_dec
+R1
+!i10b 1
+!s100 F[j;^nQ;C1gn>LVYYNi9i0
+R2
+IIKm6X6CL@D_oW@0R38aE02
+R3
+R0
+w1794210013
+8../rtl/ass_i2c_slave_pkg_dec.v
+F../rtl/ass_i2c_slave_pkg_dec.v
+!i122 1900
+L0 1 81
+R4
+r1
+!s85 0
+31
+Z7 !s108 1794284581.000000
+!s107 ../rtl/ass_i2c_slave_pkg_dec.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_pkg_dec.v|
+!i113 1
+R6
+vass_i2c_slave_pkg_dec_fsm
+R1
+!i10b 1
+!s100 60]zS;0mh>Pjoe8_G4ARn0
+R2
+I]a]4>DoOkH51V4ocNY[S70
+R3
+R0
+w1794209554
+8../rtl/ass_i2c_slave_pkg_dec_fsm.v
+F../rtl/ass_i2c_slave_pkg_dec_fsm.v
+!i122 1901
+L0 1 65
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../rtl/ass_i2c_slave_pkg_dec_fsm.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_pkg_dec_fsm.v|
+!i113 1
+R6
+vass_i2c_slave_rf
+Z8 !s110 1793779095
+!i10b 1
+!s100 L]=[3kYA;7R[Rej6hUhaf3
+R2
+IAE9<]UZ]mQcCAgOc]z6^:2
+R3
+R0
+w1793663929
+8../rtl/ass_i2c_slave_rf.v
+F../rtl/ass_i2c_slave_rf.v
+!i122 343
+Z9 L0 3 20
+R4
+r1
+!s85 0
+31
+!s108 1793779095.000000
+!s107 ../rtl/ass_i2c_slave_rf.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_rf.v|
+!i113 1
+R6
+vass_i2c_slave_rf_v2
+R1
+!i10b 1
+!s100 2X1:Bkm143Q7<hoLRDEJ_0
+R2
+I?:`?_j5lmPBc;EhBZGk>70
+R3
+R0
+w1793765434
+8../rtl/ass_i2c_slave_rf_v2.v
+F../rtl/ass_i2c_slave_rf_v2.v
+!i122 1902
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../rtl/ass_i2c_slave_rf_v2.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_rf_v2.v|
+!i113 1
+R6
+vass_i2c_slave_rx
+R8
+!i10b 1
+!s100 KhSo;iZoRg2>F@h9:aa0n2
+R2
+IPV?UL24KYTONTKDPzz=BZ0
+R3
+R0
+w1793663928
+8../rtl/ass_i2c_slave_rx.v
+F../rtl/ass_i2c_slave_rx.v
+!i122 342
+L0 3 52
+R4
+r1
+!s85 0
+31
+Z10 !s108 1793779094.000000
+!s107 ../rtl/ass_i2c_slave_rx.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_rx.v|
+!i113 1
+R6
+vass_i2c_slave_rx_ctrl
+!s110 1793779094
+!i10b 1
+!s100 lRXGO[[O<`?O1cnMaCQkL1
+R2
+I=U02P6<MB5H::Wk>U8emN1
+R3
+R0
+w1793774867
+8../rtl/ass_i2c_slave_rx_ctrl.v
+F../rtl/ass_i2c_slave_rx_ctrl.v
+!i122 341
+L0 3 188
+R4
+r1
+!s85 0
+31
+R10
+!s107 ../rtl/ass_i2c_slave_rx_ctrl.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_rx_ctrl.v|
+!i113 1
+R6
+vass_i2c_slave_scl_counter
+Z11 !s110 1794284581
+!i10b 1
+!s100 mhGd6h>WnIC_MzHb_88A93
+R2
+Ii2DCF5b`HlJ7>I6C:z5XQ1
+R3
+R0
+w1794135622
+8../rtl/ass_i2c_slave_scl_counter.v
+F../rtl/ass_i2c_slave_scl_counter.v
+!i122 1898
+L0 1 25
+R4
+r1
+!s85 0
+31
+R7
+!s107 ../rtl/ass_i2c_slave_scl_counter.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_scl_counter.v|
+!i113 1
+R6
+vass_i2c_slave_serdes
+R11
+!i10b 1
+!s100 @`zVM:aIl^YOZaJgIM[7;0
+R2
+I`P9ze:zN`Ug3H8LV3^akT1
+R3
+R0
+w1794281993
+8../rtl/ass_i2c_slave_serdes.v
+F../rtl/ass_i2c_slave_serdes.v
+!i122 1899
+L0 1 109
+R4
+r1
+!s85 0
+31
+R7
+!s107 ../rtl/ass_i2c_slave_serdes.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_serdes.v|
+!i113 1
+R6
+vass_i2c_slave_serdes_fsm
+R11
+!i10b 1
+!s100 >Y40EajARz;LOBWVhAT2z1
+R2
+IFi50Gj>Q5XOebNgZO`0nY2
+R3
+R0
+w1794282689
+8../rtl/ass_i2c_slave_serdes_fsm.v
+F../rtl/ass_i2c_slave_serdes_fsm.v
+!i122 1897
+L0 1 126
+R4
+r1
+!s85 0
+31
+R7
+!s107 ../rtl/ass_i2c_slave_serdes_fsm.v|
+!s90 -reportprogress|300|../rtl/ass_i2c_slave_serdes_fsm.v|
+!i113 1
+R6
+vedge_detecter
+R11
+!i10b 1
+!s100 XgS<5WU1m8RKzMJ`4]0EL0
+R2
+IUdE_E1dS:@I]?ePeGNc5c2
+R3
+R0
+w1793782332
+8../rtl/edge_detecter.v
+F../rtl/edge_detecter.v
+!i122 1896
+L0 1 39
+R4
+r1
+!s85 0
+31
+R7
+!s107 ../rtl/edge_detecter.v|
+!s90 -reportprogress|300|../rtl/edge_detecter.v|
+!i113 1
+R6
+vgeneric_dpram
+R1
+!i10b 1
+!s100 ODD]>]iTQ=<=nMzTc80=T3
+R2
+I;ako0nGm^QI3zl>WEWCAX3
+R3
+R0
+w1793865005
+8../rtl/generic_dpram.v
+F../rtl/generic_dpram.v
+!i122 1905
+L0 99 248
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../rtl/generic_dpram.v|
+!s90 -reportprogress|300|../rtl/generic_dpram.v|
+!i113 1
+R6
+vgeneric_fifo_dc
+Z12 !s110 1794284583
+!i10b 1
+!s100 c=CWz<J[3`TLm1;hh?UCM3
+R2
+I:[z20Ca3QM2^V8P@RB3lF2
+R3
+R0
+w1794136036
+8../rtl/generic_fifo_dc.v
+F../rtl/generic_fifo_dc.v
+!i122 1906
+L0 134 146
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../rtl/generic_fifo_dc.v|
+!s90 -reportprogress|300|../rtl/generic_fifo_dc.v|
+!i113 1
+R6
+vi2c_master_bit_ctrl
+!s110 1794284580
+!i10b 1
+!s100 =l5z^YFeHMHAjQAUC3lOc1
+R2
+IAE8K0k<UXL3Wle?BflzCE0
+R3
+R0
+w1465289192
+8../tb/i2c_master/i2c_master_bit_ctrl.v
+F../tb/i2c_master/i2c_master_bit_ctrl.v
+!i122 1893
+L0 51 406
+R4
+r1
+!s85 0
+31
+Z13 !s108 1794284580.000000
+!s107 ../tb/i2c_master/i2c_master_bit_ctrl.v|
+!s90 -reportprogress|300|../tb/i2c_master/i2c_master_bit_ctrl.v|
+!i113 1
+R6
+vi2c_master_byte_ctrl
+R11
+!i10b 1
+!s100 HI3XTkRK1P397C`?blh>n3
+R2
+Ib7BHY3@f?L3g[L4>0Y^8K1
+R3
+R0
+w1465289198
+8../tb/i2c_master/i2c_master_byte_ctrl.v
+F../tb/i2c_master/i2c_master_byte_ctrl.v
+!i122 1894
+L0 12 270
+R4
+r1
+!s85 0
+31
+R13
+!s107 ../tb/i2c_master/i2c_master_byte_ctrl.v|
+!s90 -reportprogress|300|../tb/i2c_master/i2c_master_byte_ctrl.v|
+!i113 1
+R6
+vi2c_master_top
+R11
+!i10b 1
+!s100 inA_GdF`^ZjoF=?dJdj;f0
+R2
+I6gHcMT^IaX>:@V39QmR`z2
+R3
+R0
+w1601187980
+8../tb/i2c_master/i2c_master_top.v
+F../tb/i2c_master/i2c_master_top.v
+!i122 1895
+L0 6 144
+R4
+r1
+!s85 0
+31
+R7
+!s107 ../tb/i2c_master/i2c_master_top.v|
+!s90 -reportprogress|300|../tb/i2c_master/i2c_master_top.v|
+!i113 1
+R6
+vtb_rx
+R1
+!i10b 1
+!s100 66>j6h]X33E0UeF;g9K<83
+R2
+IzIWS[c0`59Fmm;ml_Cj7T2
+R3
+R0
+w1794284577
+8../tb/hojunjung_tv_tb_rx.v
+F../tb/hojunjung_tv_tb_rx.v
+!i122 1904
+L0 4 152
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../tb/hojunjung_tv_tb_rx.v|
+!s90 -reportprogress|300|../tb/hojunjung_tv_tb_rx.v|
+!i113 1
+R6
+vtwo_level_1bit_synchronizer
+R12
+!i10b 1
+!s100 Rzn3]ESoYTeU87aF3ADmX0
+R2
+IcEWi1^`0zz:47[ba@1gcm1
+R3
+R0
+w1794136079
+8../rtl/two_level_synchronizer.v
+F../rtl/two_level_synchronizer.v
+!i122 1907
+L0 1 16
+R4
+r1
+!s85 0
+31
+!s108 1794284583.000000
+!s107 ../rtl/two_level_synchronizer.v|
+!s90 -reportprogress|300|../rtl/two_level_synchronizer.v|
+!i113 1
+R6

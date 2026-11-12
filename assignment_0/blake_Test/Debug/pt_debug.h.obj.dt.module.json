@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\pt_debug.obj",
+            "outputs": [
+                "Debug\\pt_debug.h.obj.dt.module.json",
+                "Debug\\pt_debug.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

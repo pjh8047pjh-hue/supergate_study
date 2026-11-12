@@ -17,7 +17,7 @@ wire [639:0] vec;
 wire [511:0] ref;
 
 
-blake dut (
+blake_rtl dut (
 
   .clk  (clk ),
   .rstb (rstb),

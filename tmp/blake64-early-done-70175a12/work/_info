@@ -1,0 +1,310 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work
+vblake_64
+Z1 !s110 1792372764
+!i10b 1
+!s100 f>l874cckhEI5g66g^O0W3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMjg7NIFYiPaeX9QLanTYh0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1792230196
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64.v
+!i122 0
+L0 4 215
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1792372763.000000
+Z6 !s107 C:\Work\tmp\blake64-early-done-70175a12\tb_blake_64.v|C:\Work\tmp\blake64-early-done-70175a12\early_done_check.v|C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_2.v|C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_1_.v|C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_0.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_state_mux.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_output_comb.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_msg_mux.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_input.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_g_function.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_fsm.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_counter.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64.v|
+Z7 !s90 -work|C:\Work\tmp\blake64-early-done-70175a12\work|C:\Work\tmp\blake64-early-done-70175a12\blake_64.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_counter.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_fsm.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_g_function.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_input.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_msg_mux.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_output_comb.v|C:\Work\tmp\blake64-early-done-70175a12\blake_64_state_mux.v|C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_0.v|C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_1_.v|C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_2.v|C:\Work\tmp\blake64-early-done-70175a12\early_done_check.v|C:\Work\tmp\blake64-early-done-70175a12\tb_blake_64.v|
+!i113 1
+Z8 o-work {C:\Work\tmp\blake64-early-done-70175a12\work}
+Z9 tCvgOpt 0
+vblake_64_counter
+R1
+!i10b 1
+!s100 5RHFZ`XXPcPJj4CJ=_NKf0
+R2
+I0Hhd7Vj3A7l;VT:eEAnBF1
+R3
+R0
+Z10 w1792372763
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64_counter.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64_counter.v
+!i122 0
+L0 2 49
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_fsm
+R1
+!i10b 1
+!s100 gYn48EVJN>V5>aHQ;j_T20
+R2
+ICoPoZg7EF:=URabmG6j;f1
+R3
+R0
+w1792370795
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64_fsm.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64_fsm.v
+!i122 0
+L0 2 80
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_g_function
+R1
+!i10b 1
+!s100 =^SdEeScl6:VXX<X<:1Y;1
+R2
+I`5Z3WmOl<c5QU_gGbCAMj3
+R3
+R0
+w1792233348
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64_g_function.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64_g_function.v
+!i122 0
+L0 1 61
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_input
+R1
+!i10b 1
+!s100 8RXYz]4Z7bUE2b>BfHAm]0
+R2
+IHD?ieQIOa5OAI9^g1abN01
+R3
+R0
+w1792143529
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64_input.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64_input.v
+!i122 0
+L0 1 60
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_msg_mux
+R1
+!i10b 1
+!s100 LF<04Wh<G>aLSS4MJDMhe1
+R2
+IT`?I4Vlfi6LVfzzPk@obR2
+R3
+R0
+w1792143143
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64_msg_mux.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64_msg_mux.v
+!i122 0
+L0 1 207
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_output_comb
+R1
+!i10b 1
+!s100 XJ5FC`k]nm0bHXTKS`T1I3
+R2
+IhJ3K_[?QnMA8=a315TAIk1
+R3
+R0
+w1792229943
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64_output_comb.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64_output_comb.v
+!i122 0
+L0 1 38
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_state_mux
+R1
+!i10b 1
+!s100 SYcjj?iF_Qo@B?ESdz:K;3
+R2
+I6E97VgVSLgd7jl;X?AS9H1
+R3
+R0
+w1792143153
+8C:\Work\tmp\blake64-early-done-70175a12\blake_64_state_mux.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_64_state_mux.v
+!i122 0
+L0 1 75
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_rbit_0
+R1
+!i10b 1
+!s100 YKNQJQ3>3L3FzhC_E6WT41
+R2
+IcTfkSH3=?Qn4l4jGCo68c1
+R3
+R0
+w1792024577
+8C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_0.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_rbit_0.v
+!i122 0
+L0 3 14
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_rbit_1
+R1
+!i10b 1
+!s100 2f8dS_FCblhFnQ7VaML2m3
+R2
+IOdNKg_fddgHQADA2cNIE:1
+R3
+R0
+w1710911102
+8C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_1_.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_rbit_1_.v
+!i122 0
+L0 3 15
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_rbit_2
+R1
+!i10b 1
+!s100 naXE=Vm:`1OIS^VVUJeYk0
+R2
+IBCSYP<L=H4I^lBfSkDQIJ2
+R3
+R0
+w1610358444
+8C:\Work\tmp\blake64-early-done-70175a12\blake_rbit_2.v
+FC:\Work\tmp\blake64-early-done-70175a12\blake_rbit_2.v
+!i122 0
+L0 3 20
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vearly_done_check
+R1
+!i10b 1
+!s100 e=oBmEZTzIZi;K`LYa70N1
+R2
+IonQhP1AJhdn_dCdolch^L3
+R3
+R0
+R10
+8C:\Work\tmp\blake64-early-done-70175a12\early_done_check.v
+FC:\Work\tmp\blake64-early-done-70175a12\early_done_check.v
+!i122 0
+L0 2 29
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb
+!s110 1792376354
+!i10b 1
+!s100 Sh0I8mOQF4SKQ8PIVhPn32
+R2
+I45N5AU9<bCSSM:V82I1W>2
+R3
+R0
+w1792376354
+8C:\Work\tmp\blake64-early-done-70175a12\tb_blake_64.v
+FC:\Work\tmp\blake64-early-done-70175a12\tb_blake_64.v
+!i122 1
+L0 4 127
+R4
+r1
+!s85 0
+31
+!s108 1792376354.000000
+!s107 C:\Work\tmp\blake64-early-done-70175a12\tb_blake_64.v|
+!s90 -work|C:\Work\tmp\blake64-early-done-70175a12\work|C:\Work\tmp\blake64-early-done-70175a12\tb_blake_64.v|
+!i113 1
+R8
+R9

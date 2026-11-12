@@ -1,0 +1,45 @@
+module tb_diagram();
+
+reg clk = 0;
+reg reset_n = 0;
+reg data_in = 0;
+
+wire [1:0] data_out;
+
+diagram	d(data_out, data_in, reset_n, clk);
+
+always #5 clk = ~clk;
+always #10 $display($time, " reset_n: %b, data_in: %b, data_out: %b, state: %h",
+                    reset_n, data_in, data_out, d.state);
+
+initial begin
+    #10 data_in = 0;
+    #10 data_in = 1;
+    #10 data_in = 0;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 0;
+    #10 data_in = 1;
+    #10 data_in = 0;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 0;
+    #10 data_in = 1;
+    #10 data_in = 0;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 1;
+    #10 data_in = 0;
+    #10 reset_n = 1;
+
+    $finish;
+end
+
+endmodule

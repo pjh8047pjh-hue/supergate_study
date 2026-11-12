@@ -1,0 +1,332 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/.tmp/i2c_order_check
+vass_i2c_slave
+Z1 !s110 1794359624
+!i10b 1
+!s100 `c:cg:gdzISiY8Bb`435a0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INl4iNJ_ln<z:TConF2^m`0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794359598
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave.v
+!i122 0
+L0 3 125
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794359624.000000
+!s107 C:\Work\.tmp\i2c_order_before\two_level_synchronizer.v|C:\Work\.tmp\i2c_order_before\generic_fifo_dc.v|C:\Work\.tmp\i2c_order_before\generic_dpram.v|C:\Work\.tmp\i2c_order_before\edge_detecter.v|C:\Work\.tmp\i2c_order_before\cdc_handshake_sync.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_fsm.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_cdc.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_scl_counter.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx_ctrl.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf_v2.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec_fsm.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave.v|
+Z7 !s90 -work|before|C:\Work\.tmp\i2c_order_before\ass_i2c_slave.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec_fsm.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf_v2.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx_ctrl.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_scl_counter.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_cdc.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_fsm.v|C:\Work\.tmp\i2c_order_before\cdc_handshake_sync.v|C:\Work\.tmp\i2c_order_before\edge_detecter.v|C:\Work\.tmp\i2c_order_before\generic_dpram.v|C:\Work\.tmp\i2c_order_before\generic_fifo_dc.v|C:\Work\.tmp\i2c_order_before\two_level_synchronizer.v|
+!i113 1
+Z8 o-work before
+Z9 tCvgOpt 0
+vass_i2c_slave_pkg_dec
+R1
+!i10b 1
+!s100 =S9GWjM]fDf7nZSYmWJjg3
+R2
+INgozS8L2V>5<ageJK?<E10
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec.v
+!i122 0
+L0 1 88
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 C:\Work\.tmp\i2c_order_before\two_level_synchronizer.v|C:\Work\.tmp\i2c_order_before\generic_fifo_dc.v|C:\Work\.tmp\i2c_order_before\generic_dpram.v|C:\Work\.tmp\i2c_order_before\edge_detecter.v|C:\Work\.tmp\i2c_order_before\cdc_handshake_sync.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_fsm.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_cdc.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_scl_counter.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx_ctrl.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf_v2.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec_fsm.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec.v|C:\Work\.tmp\i2c_order_before\ass_i2c_slave.v|
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_pkg_dec_fsm
+R1
+!i10b 1
+!s100 1GVRYM^e;jK<_LKeT0Q`M0
+R2
+IN;Bf_aRW0DJn5CeP7>dJA0
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec_fsm.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_pkg_dec_fsm.v
+!i122 0
+L0 1 65
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rf
+R1
+!i10b 1
+!s100 L]=[3kYA;7R[Rej6hUhaf3
+R2
+Id`n3i=I=[J[^>IogUgF4Z3
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf.v
+!i122 0
+Z11 L0 3 20
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rf_v2
+R1
+!i10b 1
+!s100 2X1:Bkm143Q7<hoLRDEJ_0
+R2
+IaI8L`COkJ@6@jkl:dYOC`3
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf_v2.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_rf_v2.v
+!i122 0
+R11
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rx
+R1
+!i10b 1
+!s100 KhSo;iZoRg2>F@h9:aa0n2
+R2
+IeBJ17e@PL8`G=>Rz>Bg^;1
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx.v
+!i122 0
+L0 3 52
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rx_ctrl
+R1
+!i10b 1
+!s100 lRXGO[[O<`?O1cnMaCQkL1
+R2
+IKCzBTQZQIGnz@YA^G;k[b3
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx_ctrl.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_rx_ctrl.v
+!i122 0
+L0 3 188
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_scl_counter
+R1
+!i10b 1
+!s100 H0JE?kPOLWcM4jn`:424^2
+R2
+I<IKF23=gJ1NhXD0n:AG`02
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_scl_counter.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_scl_counter.v
+!i122 0
+L0 1 25
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_serdes_fsm
+R1
+!i10b 1
+!s100 R`M?`ZaGhiTR?a@icN3YB2
+R2
+I=K[AnmNhImG6>`lS`KaRJ1
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_fsm.v
+FC:\Work\.tmp\i2c_order_before\ass_i2c_slave_serdes_fsm.v
+!i122 0
+L0 1 137
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vcdc_handshake_sync
+R1
+!i10b 1
+!s100 ff;5NhGHaM?;16333<3043
+R2
+IeZ_d<fhhVaKmlifAM7[i:0
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\cdc_handshake_sync.v
+FC:\Work\.tmp\i2c_order_before\cdc_handshake_sync.v
+!i122 0
+L0 1 49
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vedge_detecter
+R1
+!i10b 1
+!s100 6BLoo20CW@KRLkDBG=N]O1
+R2
+I]3jf65E7b30E9WMQbYNiz3
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\edge_detecter.v
+FC:\Work\.tmp\i2c_order_before\edge_detecter.v
+!i122 0
+L0 1 39
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vgeneric_dpram
+R1
+!i10b 1
+!s100 _A]j^:0CPL>MT[U0mO3kV2
+R2
+I6F8S6a=:li;B>6k`S6TdC0
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\generic_dpram.v
+FC:\Work\.tmp\i2c_order_before\generic_dpram.v
+!i122 0
+L0 99 248
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vgeneric_fifo_dc
+R1
+!i10b 1
+!s100 c=CWz<J[3`TLm1;hh?UCM3
+R2
+IgZ^H>EXjT4GLdhaToWC1E2
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\generic_fifo_dc.v
+FC:\Work\.tmp\i2c_order_before\generic_fifo_dc.v
+!i122 0
+L0 134 146
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vtwo_level_1bit_synchronizer
+R1
+!i10b 1
+!s100 ZEO7oK]W7SfWk:JzM9zF@3
+R2
+I:f==Cj:V3`mLZ<=LG7JJI2
+R3
+R0
+R4
+8C:\Work\.tmp\i2c_order_before\two_level_synchronizer.v
+FC:\Work\.tmp\i2c_order_before\two_level_synchronizer.v
+!i122 0
+L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9

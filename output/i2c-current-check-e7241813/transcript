@@ -1,0 +1,23 @@
+# do check.do
+# vsim -voptargs="+acc" work.tb_rx 
+# Start time: 08:53:22 on Nov 03,2026
+# Loading work.tb_rx
+# Loading work.i2c_master_top
+# Loading work.i2c_master_byte_ctrl
+# Loading work.i2c_master_bit_ctrl
+# Loading work.ass_i2c_slave
+# Loading work.ass_i2c_slave_rx
+# Loading work.ass_i2c_slave_rx_ctrl
+# Loading work.ass_i2c_slave_rf
+# READ_RESULT=f5
+# READ_RESULT=fb
+# READ_RESULT=fb
+# READ_RESULT=77
+# ** Note: $stop    : tb_rx.v(86)
+#    Time: 453165 ns  Iteration: 0  Instance: /tb_rx
+# Break in Module tb_rx at tb_rx.v line 86
+# Stopped at tb_rx.v line 86
+# MEMORY_PASS
+# WRITE_HOLD_CHECKS=9312
+# End time: 08:53:23 on Nov 03,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

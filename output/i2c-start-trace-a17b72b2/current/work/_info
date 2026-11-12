@@ -1,0 +1,195 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/output/i2c-start-trace-a17b72b2/current
+vass_i2c_slave
+Z1 !s110 1793671812
+!i10b 1
+!s100 WB1HniMW54TQX?L]`fneh0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IO9aEUMU_Tnz@Zg7M3O4e22
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1793671812
+8ass_i2c_slave.v
+Fass_i2c_slave.v
+!i122 0
+L0 3 38
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1793671812.000000
+!s107 tb_rx.v|ass_i2c_slave.v|ass_i2c_slave_rf.v|ass_i2c_slave_rx.v|ass_i2c_slave_rx_ctrl.v|i2c_master_top.v|i2c_master_byte_ctrl.v|i2c_master_bit_ctrl.v|
+Z7 !s90 -work|work|i2c_master_bit_ctrl.v|i2c_master_byte_ctrl.v|i2c_master_top.v|ass_i2c_slave_rx_ctrl.v|ass_i2c_slave_rx.v|ass_i2c_slave_rf.v|ass_i2c_slave.v|tb_rx.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vass_i2c_slave_rf
+R1
+!i10b 1
+!s100 L]=[3kYA;7R[Rej6hUhaf3
+R2
+IT9j;;3n[nLnWYn]jf8R290
+R3
+R0
+R4
+8ass_i2c_slave_rf.v
+Fass_i2c_slave_rf.v
+!i122 0
+L0 3 20
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 tb_rx.v|ass_i2c_slave.v|ass_i2c_slave_rf.v|ass_i2c_slave_rx.v|ass_i2c_slave_rx_ctrl.v|i2c_master_top.v|i2c_master_byte_ctrl.v|i2c_master_bit_ctrl.v|
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rx
+R1
+!i10b 1
+!s100 KhSo;iZoRg2>F@h9:aa0n2
+R2
+IM=D?o>TH4ENF0EfJ^0ABV1
+R3
+R0
+R4
+8ass_i2c_slave_rx.v
+Fass_i2c_slave_rx.v
+!i122 0
+L0 3 52
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rx_ctrl
+R1
+!i10b 1
+!s100 >ILR:D0d^KzkkJbJM0N?J2
+R2
+I?2TK8k[L;EPHOMV54Z9zf2
+R3
+R0
+R4
+8ass_i2c_slave_rx_ctrl.v
+Fass_i2c_slave_rx_ctrl.v
+!i122 0
+L0 3 184
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vi2c_master_bit_ctrl
+R1
+!i10b 1
+!s100 =l5z^YFeHMHAjQAUC3lOc1
+R2
+IA^T59TaJGcH`JUc3c>5mI1
+R3
+R0
+R4
+8i2c_master_bit_ctrl.v
+Fi2c_master_bit_ctrl.v
+!i122 0
+L0 51 406
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vi2c_master_byte_ctrl
+R1
+!i10b 1
+!s100 HI3XTkRK1P397C`?blh>n3
+R2
+IDH7VS5S<c^mE^hZU@8jN`1
+R3
+R0
+R4
+8i2c_master_byte_ctrl.v
+Fi2c_master_byte_ctrl.v
+!i122 0
+L0 12 270
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vi2c_master_top
+R1
+!i10b 1
+!s100 inA_GdF`^ZjoF=?dJdj;f0
+R2
+ImnXS249B_[lnl9561[X`n2
+R3
+R0
+R4
+8i2c_master_top.v
+Fi2c_master_top.v
+!i122 0
+L0 6 144
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vtb_rx
+R1
+!i10b 1
+!s100 3d17YX9;U1P07j93]E:3;2
+R2
+ILW8@H0T?X;1M[Z60VP1ge0
+R3
+R0
+R4
+8tb_rx.v
+Ftb_rx.v
+!i122 0
+L0 4 108
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9

@@ -1,0 +1,264 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/assignment_3/answer
+vblake_64
+Z1 !s110 1792740591
+!i10b 1
+!s100 B?V8_CXOnLP^BEi3oi[dW3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IDkFj[VFT>5h<I?KH9YN=01
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1570963708
+8./blake_64.v
+F./blake_64.v
+!i122 39
+L0 4 39
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1792740591.000000
+Z6 !s107 ./tb_blake_64.v|./blake_rbit_2.v|./blake_rbit_0.v|./blake_64_g_func.v|./blake_64_2_state_mux.v|./blake_64_2_msg_mux.v|./blake_64_2.v|./blake_64_1_state_mux.v|./blake_64_1_msg_mux.v|./blake_64_1.v|./blake_64.v|
+Z7 !s90 -reportprogress|300|-work|work|./blake_64.v|./blake_64_1.v|./blake_64_1_msg_mux.v|./blake_64_1_state_mux.v|./blake_64_2.v|./blake_64_2_msg_mux.v|./blake_64_2_state_mux.v|./blake_64_g_func.v|./blake_rbit_0.v|./blake_rbit_2.v|./tb_blake_64.v|
+!i113 1
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+vblake_64_1
+R1
+!i10b 1
+!s100 @H6n9lG;EH]z4EllcdXP=1
+R2
+I2<zj0F57OlUmZ=;IjGenQ2
+R3
+R0
+w1570963830
+8./blake_64_1.v
+F./blake_64_1.v
+!i122 39
+L0 4 217
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_1_msg_mux
+R1
+!i10b 1
+!s100 CBdRe>KGHFo>D[oS8NEQM2
+R2
+IjUh`z>PAQP`SW8jNa8Z[K3
+R3
+R0
+w1570957448
+8./blake_64_1_msg_mux.v
+F./blake_64_1_msg_mux.v
+!i122 39
+Z10 L0 4 154
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_1_state_mux
+R1
+!i10b 1
+!s100 gA`2V9:XM;G<HSi6ZH]Zi3
+R2
+IYK[fiFQN5T2Ce@mYNzzGS3
+R3
+R0
+w1570962996
+8./blake_64_1_state_mux.v
+F./blake_64_1_state_mux.v
+!i122 39
+Z11 L0 4 67
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_2
+R1
+!i10b 1
+!s100 g8<m;g;zWH[=]lNLJhb403
+R2
+IBn@Ehe`fMGN_3RDTGM2P:0
+R3
+R0
+w1570963846
+8./blake_64_2.v
+F./blake_64_2.v
+!i122 39
+L0 4 181
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_2_msg_mux
+R1
+!i10b 1
+!s100 <JzXPJXSaN`^m9HUE@jNg0
+R2
+IVo2>oU`_KD_SNl?kdInXD2
+R3
+R0
+w1570963638
+8./blake_64_2_msg_mux.v
+F./blake_64_2_msg_mux.v
+!i122 39
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_2_state_mux
+R1
+!i10b 1
+!s100 bHk`WZX3;j?B]j_<0R8Sb1
+R2
+I1JROQ^c;`c5;YCKJ;02LQ3
+R3
+R0
+w1570963632
+8./blake_64_2_state_mux.v
+F./blake_64_2_state_mux.v
+!i122 39
+R11
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_64_g_func
+R1
+!i10b 1
+!s100 Nf?;e0EDzbXMd]Acz46`62
+R2
+Iok5B0`K2^eaf=:NNi8Uc<3
+R3
+R0
+w1570958398
+8./blake_64_g_func.v
+F./blake_64_g_func.v
+!i122 39
+L0 4 37
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_rbit_0
+R1
+!i10b 1
+!s100 MPIcH]?Gm1ChKzbP8X<Lh1
+R2
+I:lD^=>CO7KgXMWc^JY`=Q2
+R3
+R0
+w1570948444
+8./blake_rbit_0.v
+F./blake_rbit_0.v
+!i122 39
+L0 3 17
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_rbit_2
+R1
+!i10b 1
+!s100 T]=kC6o@k]Z8fc_L9Gj^W1
+R2
+I6z6fXMkN5le7HV<O5U_Sl2
+R3
+R0
+w1570948436
+8./blake_rbit_2.v
+F./blake_rbit_2.v
+!i122 39
+L0 3 22
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb
+R1
+!i10b 1
+!s100 :kTDX42lVTEE?K<DoElJG0
+R2
+I=H=E`N=h?aVMFZeMG1a^:3
+R3
+R0
+w1792740587
+8./tb_blake_64.v
+F./tb_blake_64.v
+!i122 40
+L0 4 127
+R4
+r1
+!s85 0
+31
+R5
+!s107 ./tb_blake_64.v|
+!s90 -reportprogress|300|./tb_blake_64.v|
+!i113 1
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R9

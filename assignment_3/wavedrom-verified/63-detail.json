@@ -1,0 +1,110 @@
+{
+  "signal": [
+    {
+      "name": "clk",
+      "wave": "P........."
+    },
+    {
+      "name": "ena",
+      "wave": "0..1.0..............",
+      "period": 0.5
+    },
+    {
+      "name": "din",
+      "wave": "4..5................",
+      "data": [
+        "D1",
+        "D2"
+      ],
+      "period": 0.5
+    },
+    {
+      "name": "current state",
+      "wave": "5.......4...........",
+      "data": [
+        "RUN_BOTH",
+        "RUN_G1"
+      ],
+      "period": 0.5
+    },
+    {
+      "name": "counter_g0",
+      "wave": "3.3.3.3.3...........",
+      "data": [
+        "124",
+        "125",
+        "126",
+        "127",
+        "0"
+      ],
+      "period": 0.5
+    },
+    {
+      "name": "counter_g1",
+      "wave": "4.4.4.4.4.4.4.4.4.4.",
+      "data": [
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70"
+      ],
+      "period": 0.5
+    },
+    {
+      "name": "init_g0",
+      "wave": "0...................",
+      "period": 0.5
+    },
+    {
+      "name": "msg_g0",
+      "wave": "3...................",
+      "data": [
+        "M0"
+      ],
+      "period": 0.5
+    },
+    {
+      "name": "state_0",
+      "wave": "3.3.3.3.3...........",
+      "data": [
+        "S124",
+        "S125",
+        "S126",
+        "S127",
+        "S128"
+      ],
+      "period": 0.5
+    },
+    {
+      "name": "rdy",
+      "wave": "0.....1.0...........",
+      "period": 0.5
+    },
+    {
+      "name": "dout",
+      "wave": "2.....3.2...........",
+      "data": [
+        "0",
+        "H0",
+        "0"
+      ],
+      "period": 0.5
+    }
+  ],
+  "head": {
+    "text": "63-cycle input: third-input detail (C124-C134)",
+    "tick": 124
+  },
+  "foot": {
+    "text": "1 grid interval = 1 clock. Register values are after the rising edge."
+  },
+  "config": {
+    "hscale": 2
+  }
+}

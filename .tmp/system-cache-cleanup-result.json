@@ -1,0 +1,45 @@
+﻿{
+    "Phase":  "Completed",
+    "IsAdministrator":  true,
+    "BeforeFreeBytes":  81344135168,
+    "AfterFreeBytes":  104329629696,
+    "DeletedBytes":  1068932655,
+    "DeletedFiles":  294,
+    "Targets":  [
+                    {
+                        "Path":  "C:\\ProgramData\\LogiOptionsPlus\\cache",
+                        "DeletedBytes":  801323371,
+                        "DeletedFiles":  30,
+                        "Skipped":  0
+                    },
+                    {
+                        "Path":  "C:\\Windows\\Temp",
+                        "DeletedBytes":  146869618,
+                        "DeletedFiles":  135,
+                        "Skipped":  26
+                    },
+                    {
+                        "Path":  "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive",
+                        "DeletedBytes":  5279648,
+                        "DeletedFiles":  108,
+                        "Skipped":  2
+                    },
+                    {
+                        "Path":  "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue",
+                        "DeletedBytes":  4418801,
+                        "DeletedFiles":  12,
+                        "Skipped":  4
+                    },
+                    {
+                        "Path":  "C:\\Windows\\SoftwareDistribution\\Download",
+                        "DeletedBytes":  111041217,
+                        "DeletedFiles":  9,
+                        "Skipped":  0
+                    }
+                ],
+    "UpdateCleanup":  "Completed",
+    "DismExitCode":  0,
+    "Errors":  [
+
+               ]
+}

@@ -1,0 +1,316 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Work
+vass_i2c_slave
+Z0 !s110 1793788498
+!i10b 1
+!s100 k1k6:h7zH5ATbSMdjfF=T0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IR0U3dc=ZG8T85]gVdnG`82
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Work/assignment_6/i2c_rx_assignment/design/sim
+w1793788353
+8../rtl/ass_i2c_slave.v
+F../rtl/ass_i2c_slave.v
+!i122 9
+L0 3 84
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1793788498.000000
+Z6 !s107 ../tb/tb_rx.v|../rtl/ass_i2c_slave.v|../rtl/ass_i2c_slave_rf_v2.v|../rtl/ass_i2c_slave_pkg_dec.v|../rtl/ass_i2c_slave_serdes.v|../rtl/ass_i2c_slave_serdes_fsm.v|../rtl/edge_detecter.v|../tb/i2c_master/i2c_master_top.v|../tb/i2c_master/i2c_master_byte_ctrl.v|../tb/i2c_master/i2c_master_bit_ctrl.v|
+Z7 !s90 -work|C:\Work\.tmp\i2c-port-check-20261104\work|../tb/i2c_master/i2c_master_bit_ctrl.v|../tb/i2c_master/i2c_master_byte_ctrl.v|../tb/i2c_master/i2c_master_top.v|../rtl/edge_detecter.v|../rtl/ass_i2c_slave_serdes_fsm.v|../rtl/ass_i2c_slave_serdes.v|../rtl/ass_i2c_slave_pkg_dec.v|../rtl/ass_i2c_slave_rf_v2.v|../rtl/ass_i2c_slave.v|../tb/tb_rx.v|
+!i113 1
+Z8 o-work {C:\Work\.tmp\i2c-port-check-20261104\work}
+Z9 tCvgOpt 0
+vass_i2c_slave_pkg_dec
+R0
+!i10b 1
+!s100 @9Q6AVdlicYo5WFKg1]gB1
+R1
+IjgAU8MJmjc6QzG;k4Ig=H3
+R2
+R3
+w1793788337
+8../rtl/ass_i2c_slave_pkg_dec.v
+F../rtl/ass_i2c_slave_pkg_dec.v
+!i122 9
+L0 1 58
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rf_v2
+R0
+!i10b 1
+!s100 2X1:Bkm143Q7<hoLRDEJ_0
+R1
+Ie]PZGD?dNf9XK5inPGE4G1
+R2
+R3
+w1793765434
+8../rtl/ass_i2c_slave_rf_v2.v
+F../rtl/ass_i2c_slave_rf_v2.v
+!i122 9
+L0 3 20
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_serdes
+R0
+!i10b 1
+!s100 h0l[_cmnMQXGlL@US;jXn3
+R1
+I25]Z:MNCE<1[S6]nGi@aJ0
+R2
+R3
+w1793787332
+8../rtl/ass_i2c_slave_serdes.v
+F../rtl/ass_i2c_slave_serdes.v
+!i122 9
+L0 1 92
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_serdes_fsm
+R0
+!i10b 1
+!s100 @JQ0:XVlk[Ahg[eh5AS=E0
+R1
+IGoffFWe]?KP?NOWRY3]KK3
+R2
+R3
+w1793787397
+8../rtl/ass_i2c_slave_serdes_fsm.v
+F../rtl/ass_i2c_slave_serdes_fsm.v
+!i122 9
+L0 1 136
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vedge_detecter
+R0
+!i10b 1
+!s100 6BLoo20CW@KRLkDBG=N]O1
+R1
+IPf[Y_O9@]VEBW^cY1N1QE2
+R2
+R3
+w1793782332
+8../rtl/edge_detecter.v
+F../rtl/edge_detecter.v
+!i122 9
+L0 1 39
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vi2c_master_bit_ctrl
+R0
+!i10b 1
+!s100 =l5z^YFeHMHAjQAUC3lOc1
+R1
+I9c:>eH]0VY9cL[7QAilZc0
+R2
+R3
+w1465289192
+8../tb/i2c_master/i2c_master_bit_ctrl.v
+F../tb/i2c_master/i2c_master_bit_ctrl.v
+!i122 9
+L0 51 406
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vi2c_master_byte_ctrl
+R0
+!i10b 1
+!s100 HI3XTkRK1P397C`?blh>n3
+R1
+IQT[dK=ID_?7:JClaQAQZG0
+R2
+R3
+w1465289198
+8../tb/i2c_master/i2c_master_byte_ctrl.v
+F../tb/i2c_master/i2c_master_byte_ctrl.v
+!i122 9
+L0 12 270
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vi2c_master_top
+R0
+!i10b 1
+!s100 inA_GdF`^ZjoF=?dJdj;f0
+R1
+IU1NQ0CjX_RF<;A??BJKF;1
+R2
+R3
+w1601187980
+8../tb/i2c_master/i2c_master_top.v
+F../tb/i2c_master/i2c_master_top.v
+!i122 9
+L0 6 144
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_edge_check
+Z10 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1793782369
+!i10b 1
+!s100 ^9cHSRZ47P>ESSHkIW3LM2
+R1
+IXF6mh5AgSO9g_NI[z0i_Q2
+R2
+S1
+Z11 dC:/Work/.tmp/i2c-port-check-20261104
+w1793782366
+8tb_edge_check.sv
+Ftb_edge_check.sv
+!i122 5
+L0 2 45
+R4
+r1
+!s85 0
+31
+!s108 1793782369.000000
+!s107 tb_edge_check.sv|
+!s90 -sv|-work|C:/Work/.tmp/i2c-port-check-20261104/work|tb_edge_check.sv|
+!i113 1
+Z12 o-sv -work C:/Work/.tmp/i2c-port-check-20261104/work
+R9
+vtb_pkg_boundaries
+R10
+!s110 1793788554
+!i10b 1
+!s100 1LOnzGMQYGIj=dH8ePUkg1
+R1
+I;>^BMaY>N?9o14[SH253W0
+R2
+S1
+R11
+w1793788553
+8tb_pkg_boundaries.sv
+Ftb_pkg_boundaries.sv
+!i122 11
+L0 2 28
+R4
+r1
+!s85 0
+31
+!s108 1793788554.000000
+!s107 tb_pkg_boundaries.sv|
+!s90 -sv|-work|C:/Work/.tmp/i2c-port-check-20261104/work|tb_pkg_boundaries.sv|
+!i113 1
+R12
+R9
+vtb_rx
+R0
+!i10b 1
+!s100 zNneXdNND6Ne3C8To6<_z3
+R1
+IzmY5E6ff^PXLM:kokUVTf2
+R2
+R3
+w1793747030
+8../tb/tb_rx.v
+F../tb/tb_rx.v
+!i122 9
+L0 4 105
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb_structure_audit
+R10
+R0
+!i10b 1
+!s100 j[5ICPXJEUWHD0F]6?dL03
+R1
+IjX7X8kmJO?M]i?NA270B_2
+R2
+S1
+R3
+w1793788497
+8C:\Work\.tmp\i2c-port-check-20261104\tb_structure_audit.sv
+FC:\Work\.tmp\i2c-port-check-20261104\tb_structure_audit.sv
+!i122 10
+L0 2 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Work\.tmp\i2c-port-check-20261104\tb_structure_audit.sv|
+!s90 -sv|-work|C:\Work\.tmp\i2c-port-check-20261104\work|C:\Work\.tmp\i2c-port-check-20261104\tb_structure_audit.sv|
+!i113 1
+o-sv -work {C:\Work\.tmp\i2c-port-check-20261104\work}
+R9

@@ -1,0 +1,495 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/tmp/blake-timing-review
+vblake
+Z1 !s110 1791848134
+!i10b 1
+!s100 mZKjBTYC]J82G[=mIO1KV2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I;75C_3f59?Qg<_Da4jVja1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791848130
+8C:/Work/assignment_1/blake_RTL.v
+FC:/Work/assignment_1/blake_RTL.v
+!i122 5
+L0 4 118
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1791848134.000000
+Z6 !s107 timing_review_tb.v|C:/Work/assignment_1/tb.v|C:/Work/assignment_1/blake_RTL.v|C:/Work/assignment_1/g_function.v|C:/Work/assignment_1/state_mux.v|C:/Work/assignment_1/msg_mux.v|C:/Work/assignment_1/blake_counter.v|C:/Work/assignment_1/blake_FSM.v|C:/Work/assignment_1/output_comb.v|C:/Work/assignment_1/blake_input.v|
+Z7 !s90 -work|work|C:/Work/assignment_1/blake_input.v|C:/Work/assignment_1/output_comb.v|C:/Work/assignment_1/blake_FSM.v|C:/Work/assignment_1/blake_counter.v|C:/Work/assignment_1/msg_mux.v|C:/Work/assignment_1/state_mux.v|C:/Work/assignment_1/g_function.v|C:/Work/assignment_1/blake_RTL.v|C:/Work/assignment_1/tb.v|timing_review_tb.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vblake_counter
+R1
+!i10b 1
+!s100 :;Xg=5OcGVk2G4QOAk[V`0
+R2
+IACS@0JEz7aiVVXCg8JD=_3
+R3
+R0
+w1791791232
+8C:/Work/assignment_1/blake_counter.v
+FC:/Work/assignment_1/blake_counter.v
+!i122 5
+Z10 L0 2 26
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_FSM
+R1
+!i10b 1
+!s100 D<Il=K5KYiAd;dP_KEgzb1
+R2
+I;;BnPbfN3>^F>?C=10_7W2
+R3
+R0
+w1791791487
+8C:/Work/assignment_1/blake_FSM.v
+FC:/Work/assignment_1/blake_FSM.v
+!i122 5
+L0 2 87
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+nblake_@f@s@m
+vblake_input
+R1
+!i10b 1
+!s100 f;;WB6[lC@RXXYMU?zCAW1
+R2
+IN3ndDWQ2Q2B^hl9a8Qf=o2
+R3
+R0
+w1791847323
+8C:/Work/assignment_1/blake_input.v
+FC:/Work/assignment_1/blake_input.v
+!i122 5
+L0 1 63
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vblake_rtl
+Z11 !s110 1792046896
+!i10b 1
+!s100 R<_QMja6dOIWkKHj]Q]Wj2
+R2
+Il6Jcd?z6WdcmYZmHV?Co:0
+R3
+R0
+w1792046255
+8C:/Work/assignment_1/blake_rtl.v
+FC:/Work/assignment_1/blake_rtl.v
+!i122 16
+L0 4 121
+R4
+r1
+!s85 0
+31
+Z12 !s108 1792046896.000000
+!s107 C:/Work/assignment_1/tb.v|C:/Work/assignment_1/blake_rtl.v|C:/Work/assignment_1/blake_rtl_filpflop.v|C:/Work/assignment_1/blake_rtl_g_function.v|C:/Work/assignment_1/blake_rtl_state_mux.v|C:/Work/assignment_1/blake_rtl_msg_mux.v|C:/Work/assignment_1/blake_rtl_counter.v|C:/Work/assignment_1/blake_rtl_fsm.v|C:/Work/assignment_1/blake_rtl_output_comb.v|C:/Work/assignment_1/blake_rtl_input.v|
+Z13 !s90 -work|work|C:/Work/assignment_1/blake_rtl_input.v|C:/Work/assignment_1/blake_rtl_output_comb.v|C:/Work/assignment_1/blake_rtl_fsm.v|C:/Work/assignment_1/blake_rtl_counter.v|C:/Work/assignment_1/blake_rtl_msg_mux.v|C:/Work/assignment_1/blake_rtl_state_mux.v|C:/Work/assignment_1/blake_rtl_g_function.v|C:/Work/assignment_1/blake_rtl_filpflop.v|C:/Work/assignment_1/blake_rtl.v|C:/Work/assignment_1/tb.v|
+!i113 1
+R8
+R9
+vblake_rtl_counter
+R11
+!i10b 1
+!s100 L3@0nc?LPgYNQQZUoUbWo0
+R2
+I:93N2inj;KIlRKz:i=9E]2
+R3
+R0
+w1791857400
+8C:/Work/assignment_1/blake_rtl_counter.v
+FC:/Work/assignment_1/blake_rtl_counter.v
+!i122 16
+R10
+R4
+r1
+!s85 0
+31
+R12
+Z14 !s107 C:/Work/assignment_1/tb.v|C:/Work/assignment_1/blake_rtl.v|C:/Work/assignment_1/blake_rtl_filpflop.v|C:/Work/assignment_1/blake_rtl_g_function.v|C:/Work/assignment_1/blake_rtl_state_mux.v|C:/Work/assignment_1/blake_rtl_msg_mux.v|C:/Work/assignment_1/blake_rtl_counter.v|C:/Work/assignment_1/blake_rtl_fsm.v|C:/Work/assignment_1/blake_rtl_output_comb.v|C:/Work/assignment_1/blake_rtl_input.v|
+R13
+!i113 1
+R8
+R9
+vblake_rtl_filpflop
+R11
+!i10b 1
+!s100 eYZzn4FkCW7>kIBegR5003
+R2
+IK]m87fo[hYlDgbYbz_Q7Q3
+R3
+R0
+w1792046883
+8C:/Work/assignment_1/blake_rtl_filpflop.v
+FC:/Work/assignment_1/blake_rtl_filpflop.v
+!i122 16
+L0 1 36
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vblake_rtl_fsm
+R11
+!i10b 1
+!s100 YPX;>5`GBCjEizW0NBU9K3
+R2
+IPMzmLoG[C4WNd@>:7Rz2J2
+R3
+R0
+w1792024010
+8C:/Work/assignment_1/blake_rtl_fsm.v
+FC:/Work/assignment_1/blake_rtl_fsm.v
+!i122 16
+L0 2 45
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vblake_rtl_g_function
+R11
+!i10b 1
+!s100 <zUTKPQ^YjK47=NBGj>_i3
+R2
+I?E@2^_7L^>6=EmM70>28E1
+R3
+R0
+w1792046690
+8C:/Work/assignment_1/blake_rtl_g_function.v
+FC:/Work/assignment_1/blake_rtl_g_function.v
+!i122 16
+L0 1 70
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vblake_rtl_input
+R11
+!i10b 1
+!s100 AiXFVEQFICgdRQ>W?deI<1
+R2
+I>]dHD1nbIVK3HKzQanmfL2
+R3
+R0
+w1792046084
+8C:/Work/assignment_1/blake_rtl_input.v
+FC:/Work/assignment_1/blake_rtl_input.v
+!i122 16
+L0 1 104
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vblake_rtl_msg_mux
+R11
+!i10b 1
+!s100 8Fn>AFeh1=D0gRE<]`A2X2
+R2
+I[S5=nJ@zjTL8Z;kV5<o`Y3
+R3
+R0
+w1792023137
+8C:/Work/assignment_1/blake_rtl_msg_mux.v
+FC:/Work/assignment_1/blake_rtl_msg_mux.v
+!i122 16
+L0 1 207
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vblake_rtl_output_comb
+R11
+!i10b 1
+!s100 fXPODM6IRd0g0o0[>FMGV3
+R2
+IANN4:bzI_^IK[lzQ5ZBXa0
+R3
+R0
+w1792021976
+8C:/Work/assignment_1/blake_rtl_output_comb.v
+FC:/Work/assignment_1/blake_rtl_output_comb.v
+!i122 16
+L0 1 34
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vblake_rtl_state_mux
+R11
+!i10b 1
+!s100 QcbKdC8[cdn4FlFbKjfMS2
+R2
+IobZlL6]0z:X`EJ<K;cS<G0
+R3
+R0
+w1791964988
+8C:/Work/assignment_1/blake_rtl_state_mux.v
+FC:/Work/assignment_1/blake_rtl_state_mux.v
+!i122 16
+L0 1 78
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vg_function
+R1
+!i10b 1
+!s100 fT]AS9l4Ijgh?hzE6bKh:2
+R2
+IC4=M9cIhTIB;CkJgFUCL31
+R3
+R0
+w1791847428
+8C:/Work/assignment_1/g_function.v
+FC:/Work/assignment_1/g_function.v
+!i122 5
+L0 1 66
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vmsg_mux
+R1
+!i10b 1
+!s100 XTFU2b^jE]:a@[KH[C`Ek2
+R2
+IVDJFSN@dD51f4P4N^m;X>1
+R3
+R0
+w1791791216
+8C:/Work/assignment_1/msg_mux.v
+FC:/Work/assignment_1/msg_mux.v
+!i122 5
+L0 2 95
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+voutput_comb
+R1
+!i10b 1
+!s100 61;^M9UU>MW3FmVTze7hU2
+R2
+I6S__MFCF<?]aE]IW7^kMl1
+R3
+R0
+w1791847372
+8C:/Work/assignment_1/output_comb.v
+FC:/Work/assignment_1/output_comb.v
+!i122 5
+Z15 L0 1 28
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vsigma_case_tb
+!s110 1791954947
+!i10b 1
+!s100 GlAM>8KinD3G:k=8]o4Em3
+R2
+I3JKJ:nRklFaR^`>zNMlLf1
+R3
+R0
+w1791944966
+8sigma_case_tb.v
+Fsigma_case_tb.v
+!i122 9
+L0 2 24
+R4
+r1
+!s85 0
+31
+!s108 1791954947.000000
+!s107 sigma_case_tb.v|C:/Work/assignment_1/tb.v|C:/Work/assignment_1/blake_rtl.v|C:/Work/assignment_1/blake_rtl_g_function.v|C:/Work/assignment_1/blake_rtl_state_mux.v|C:/Work/assignment_1/blake_rtl_msg_mux.v|C:/Work/assignment_1/blake_rtl_counter.v|C:/Work/assignment_1/blake_rtl_fsm.v|C:/Work/assignment_1/blake_rtl_output_comb.v|C:/Work/assignment_1/blake_rtl_input.v|
+!s90 -work|work|C:/Work/assignment_1/blake_rtl_input.v|C:/Work/assignment_1/blake_rtl_output_comb.v|C:/Work/assignment_1/blake_rtl_fsm.v|C:/Work/assignment_1/blake_rtl_counter.v|C:/Work/assignment_1/blake_rtl_msg_mux.v|C:/Work/assignment_1/blake_rtl_state_mux.v|C:/Work/assignment_1/blake_rtl_g_function.v|C:/Work/assignment_1/blake_rtl.v|C:/Work/assignment_1/tb.v|sigma_case_tb.v|
+!i113 1
+R8
+R9
+vstate_case_tb
+!s110 1791962142
+!i10b 1
+!s100 H_f^@m`acETIZWXZU5H>G0
+R2
+IZb>E8aX=@Aab89_LA]M?=1
+R3
+R0
+w1791962138
+8state_case_tb.v
+Fstate_case_tb.v
+!i122 10
+L0 2 34
+R4
+r1
+!s85 0
+31
+!s108 1791962142.000000
+!s107 state_case_tb.v|C:/Work/assignment_1/blake_rtl_state_mux.v|
+!s90 -work|work|C:/Work/assignment_1/blake_rtl_state_mux.v|state_case_tb.v|
+!i113 1
+R8
+R9
+vstate_mux
+R1
+!i10b 1
+!s100 VbGNEKSk3C_kgESc2AJRS2
+R2
+IjOd9;703Qb]YkVb:blFD>2
+R3
+R0
+w1791791485
+8C:/Work/assignment_1/state_mux.v
+FC:/Work/assignment_1/state_mux.v
+!i122 5
+R15
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtb
+R11
+!i10b 1
+!s100 H3MNYYlPW=g;hWZ>CDhFP0
+R2
+I@M1eFQO^I>EYz28Y72dmP3
+R3
+R0
+w1791852425
+8C:/Work/assignment_1/tb.v
+FC:/Work/assignment_1/tb.v
+!i122 16
+L0 4 94
+R4
+r1
+!s85 0
+31
+R12
+R14
+R13
+!i113 1
+R8
+R9
+vtiming_review_tb
+!s110 1791870168
+!i10b 1
+!s100 izd?a=f648jJMnI[25Dhi2
+R2
+I?WiNXQ49?>_i_QdMPheRH3
+R3
+R0
+w1791870164
+8timing_review_tb.v
+Ftiming_review_tb.v
+!i122 7
+L0 2 120
+R4
+r1
+!s85 0
+31
+!s108 1791870168.000000
+!s107 timing_review_tb.v|C:/Work/assignment_1/tb.v|C:/Work/assignment_1/blake_rtl.v|C:/Work/assignment_1/blake_rtl_g_function.v|C:/Work/assignment_1/blake_rtl_state_mux.v|C:/Work/assignment_1/blake_rtl_msg_mux.v|C:/Work/assignment_1/blake_rtl_counter.v|C:/Work/assignment_1/blake_rtl_fsm.v|C:/Work/assignment_1/blake_rtl_output_comb.v|C:/Work/assignment_1/blake_rtl_input.v|
+!s90 -work|work|C:/Work/assignment_1/blake_rtl_input.v|C:/Work/assignment_1/blake_rtl_output_comb.v|C:/Work/assignment_1/blake_rtl_fsm.v|C:/Work/assignment_1/blake_rtl_counter.v|C:/Work/assignment_1/blake_rtl_msg_mux.v|C:/Work/assignment_1/blake_rtl_state_mux.v|C:/Work/assignment_1/blake_rtl_g_function.v|C:/Work/assignment_1/blake_rtl.v|C:/Work/assignment_1/tb.v|timing_review_tb.v|
+!i113 1
+R8
+R9

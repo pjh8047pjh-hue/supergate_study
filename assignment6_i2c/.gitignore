@@ -1,0 +1,5 @@
+# ModelSim generated files
+**/sim/work/
+**/sim/*.wlf
+**/sim/transcript
+**/sim/tcl_stacktrace.txt

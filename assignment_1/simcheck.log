@@ -1,0 +1,9 @@
+# vsim -c -lib C:\Work\assignment_1\simcheck_lib tb -wlf C:\Work\assignment_1\simcheck.wlf -l C:\Work\assignment_1\simcheck.log -do "run 1 us; quit -f" 
+# Start time: 15:24:42 on Oct 07,2026
+# Loading C:\Work\assignment_1\simcheck_lib.tb
+# Loading C:\Work\assignment_1\simcheck_lib.blake
+# run 1 us
+# Hash Done.
+#  quit -f
+# End time: 15:24:43 on Oct 07,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

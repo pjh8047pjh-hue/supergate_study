@@ -1,0 +1,833 @@
+﻿{
+    "Mode":  "Delete",
+    "PlannedBytes":  9941276390,
+    "DeletedBytes":  9733881804,
+    "DeletedFiles":  40777,
+    "BeforeFreeBytes":  78633607168,
+    "AfterFreeBytes":  90561245184,
+    "Groups":  [
+                   {
+                       "Category":  "PreviousRuntime",
+                       "PlannedBytes":  117960800,
+                       "DeletedBytes":  0,
+                       "DeletedFiles":  0,
+                       "SkippedFiles":  2
+                   },
+                   {
+                       "Category":  "ApplicationWebCache",
+                       "PlannedBytes":  4967071569,
+                       "DeletedBytes":  4877743633,
+                       "DeletedFiles":  39626,
+                       "SkippedFiles":  68
+                   },
+                   {
+                       "Category":  "CrashDumps",
+                       "PlannedBytes":  94342017,
+                       "DeletedBytes":  94342017,
+                       "DeletedFiles":  10,
+                       "SkippedFiles":  0
+                   },
+                   {
+                       "Category":  "ShaderCache",
+                       "PlannedBytes":  2293760,
+                       "DeletedBytes":  2293760,
+                       "DeletedFiles":  56,
+                       "SkippedFiles":  0
+                   },
+                   {
+                       "Category":  "NpmDownloadCache",
+                       "PlannedBytes":  178302367,
+                       "DeletedBytes":  178302367,
+                       "DeletedFiles":  6,
+                       "SkippedFiles":  0
+                   },
+                   {
+                       "Category":  "PipDownloadCache",
+                       "PlannedBytes":  2835372115,
+                       "DeletedBytes":  2835372115,
+                       "DeletedFiles":  1068,
+                       "SkippedFiles":  0
+                   },
+                   {
+                       "Category":  "Temp",
+                       "PlannedBytes":  211700,
+                       "DeletedBytes":  105850,
+                       "DeletedFiles":  1,
+                       "SkippedFiles":  1
+                   },
+                   {
+                       "Category":  "VisualStudioGeneratedCache",
+                       "PlannedBytes":  1745722062,
+                       "DeletedBytes":  1745722062,
+                       "DeletedFiles":  10,
+                       "SkippedFiles":  0
+                   }
+               ],
+    "Targets":  [
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-f5ff2709-39ac-4d99-a746-c450f85c9623",
+                        "PlannedBytes":  117960800,
+                        "DeletedBytes":  0,
+                        "DeletedFiles":  0,
+                        "SkippedFiles":  2,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Adobe\\Acrobat\\AVWebview2\\DC\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  334674711,
+                        "DeletedBytes":  334674711,
+                        "DeletedFiles":  1111,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Adobe\\Acrobat\\AVWebview2\\DC\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  92880148,
+                        "DeletedBytes":  92880148,
+                        "DeletedFiles":  1293,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "CrashDumps",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\CrashDumps",
+                        "PlannedBytes":  94342017,
+                        "DeletedBytes":  94342017,
+                        "DeletedFiles":  10,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ShaderCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\D3DSCache",
+                        "PlannedBytes":  2293760,
+                        "DeletedBytes":  2293760,
+                        "DeletedFiles":  56,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache",
+                        "PlannedBytes":  40890696,
+                        "DeletedBytes":  31383512,
+                        "DeletedFiles":  298,
+                        "SkippedFiles":  6,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache",
+                        "PlannedBytes":  9437666,
+                        "DeletedBytes":  9437666,
+                        "DeletedFiles":  467,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Shared Dictionary\\cache",
+                        "PlannedBytes":  81400785,
+                        "DeletedBytes":  81400785,
+                        "DeletedFiles":  939,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\contextual-tasks\\5424333CE73F\\Cache",
+                        "PlannedBytes":  12555367,
+                        "DeletedBytes":  12555367,
+                        "DeletedFiles":  60,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\glic\\66A834677761\\Cache",
+                        "PlannedBytes":  21207253,
+                        "DeletedBytes":  21207253,
+                        "DeletedFiles":  66,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\glic\\66A834677761\\Code Cache",
+                        "PlannedBytes":  53617048,
+                        "DeletedBytes":  53617048,
+                        "DeletedFiles":  170,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Kakao\\KakaoTalk\\users\\9189eb89245d9d5388408425d6ad33f6218c8c35\\wv\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  141675901,
+                        "DeletedBytes":  131382285,
+                        "DeletedFiles":  569,
+                        "SkippedFiles":  6,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Lenovo\\Vantage\\AddinData\\LenovoMachineFixUserAddin\\LenovoMachineFixUserAddin\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  8365899,
+                        "DeletedBytes":  8365899,
+                        "DeletedFiles":  158,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Cache",
+                        "PlannedBytes":  23375086,
+                        "DeletedBytes":  23375086,
+                        "DeletedFiles":  132,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Edge\\User Data\\GrShaderCache",
+                        "PlannedBytes":  7003888,
+                        "DeletedBytes":  7003888,
+                        "DeletedFiles":  64,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  11245061,
+                        "DeletedBytes":  11245061,
+                        "DeletedFiles":  51,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  9566884,
+                        "DeletedBytes":  9566884,
+                        "DeletedFiles":  65,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\0\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  40116983,
+                        "DeletedBytes":  40116983,
+                        "DeletedFiles":  26,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\0\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  47566812,
+                        "DeletedBytes":  47566812,
+                        "DeletedFiles":  178,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  114657399,
+                        "DeletedBytes":  114657399,
+                        "DeletedFiles":  197,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  78324568,
+                        "DeletedBytes":  78324568,
+                        "DeletedFiles":  756,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\Default\\GPUCache",
+                        "PlannedBytes":  5920648,
+                        "DeletedBytes":  5920648,
+                        "DeletedFiles":  9,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\GrShaderCache",
+                        "PlannedBytes":  10155496,
+                        "DeletedBytes":  10155496,
+                        "DeletedFiles":  54,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  234059595,
+                        "DeletedBytes":  234059595,
+                        "DeletedFiles":  743,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  259437168,
+                        "DeletedBytes":  259437168,
+                        "DeletedFiles":  4068,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\EBWebView\\GrShaderCache",
+                        "PlannedBytes":  9578680,
+                        "DeletedBytes":  9578680,
+                        "DeletedFiles":  37,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Default\\Cache",
+                        "PlannedBytes":  24674899,
+                        "DeletedBytes":  24674899,
+                        "DeletedFiles":  19,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\GrShaderCache",
+                        "PlannedBytes":  10875032,
+                        "DeletedBytes":  10875032,
+                        "DeletedFiles":  89,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Profile 1\\Cache",
+                        "PlannedBytes":  185507218,
+                        "DeletedBytes":  185507218,
+                        "DeletedFiles":  639,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Profile 1\\Code Cache",
+                        "PlannedBytes":  26247889,
+                        "DeletedBytes":  26247889,
+                        "DeletedFiles":  999,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Profile 1\\Shared Dictionary\\cache",
+                        "PlannedBytes":  36742327,
+                        "DeletedBytes":  36742327,
+                        "DeletedFiles":  503,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "NpmDownloadCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\npm-cache\\_cacache",
+                        "PlannedBytes":  178302367,
+                        "DeletedBytes":  178302367,
+                        "DeletedFiles":  6,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Cache",
+                        "PlannedBytes":  240776823,
+                        "DeletedBytes":  240776823,
+                        "DeletedFiles":  1286,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Code Cache",
+                        "PlannedBytes":  318274714,
+                        "DeletedBytes":  318274714,
+                        "DeletedFiles":  9492,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Partitions\\cowork-file-preview\\Cache",
+                        "PlannedBytes":  17575792,
+                        "DeletedBytes":  17575792,
+                        "DeletedFiles":  8,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Partitions\\launch-preview-cowork-shared\\Cache",
+                        "PlannedBytes":  15621530,
+                        "DeletedBytes":  15621530,
+                        "DeletedFiles":  51,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\E046963F.LenovoCompanion_k1h2ywk1493x8\\LocalState\\UDF\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  9086745,
+                        "DeletedBytes":  9086745,
+                        "DeletedFiles":  43,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\E046963F.LenovoCompanion_k1h2ywk1493x8\\LocalState\\UDF\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  11178069,
+                        "DeletedBytes":  11178069,
+                        "DeletedFiles":  348,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\E046963F.LenovoCompanion_k1h2ywk1493x8\\LocalState\\UDF\\EBWebView\\GrShaderCache",
+                        "PlannedBytes":  14618976,
+                        "DeletedBytes":  14618976,
+                        "DeletedFiles":  68,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  378976529,
+                        "DeletedBytes":  378976529,
+                        "DeletedFiles":  750,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  26101682,
+                        "DeletedBytes":  26101682,
+                        "DeletedFiles":  84,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\Default\\GPUCache",
+                        "PlannedBytes":  5986928,
+                        "DeletedBytes":  5986928,
+                        "DeletedFiles":  14,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\GrShaderCache",
+                        "PlannedBytes":  14163128,
+                        "DeletedBytes":  14163128,
+                        "DeletedFiles":  41,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  81448658,
+                        "DeletedBytes":  81448658,
+                        "DeletedFiles":  606,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  148807623,
+                        "DeletedBytes":  148807623,
+                        "DeletedFiles":  3940,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  51702764,
+                        "DeletedBytes":  32459384,
+                        "DeletedFiles":  478,
+                        "SkippedFiles":  6,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  69902766,
+                        "DeletedBytes":  69902766,
+                        "DeletedFiles":  765,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView\\GrShaderCache",
+                        "PlannedBytes":  9594084,
+                        "DeletedBytes":  611188,
+                        "DeletedFiles":  33,
+                        "SkippedFiles":  5,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  60245189,
+                        "DeletedBytes":  60245189,
+                        "DeletedFiles":  606,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  47651943,
+                        "DeletedBytes":  47651943,
+                        "DeletedFiles":  418,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView\\GrShaderCache",
+                        "PlannedBytes":  7425196,
+                        "DeletedBytes":  7425196,
+                        "DeletedFiles":  142,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\Cache",
+                        "PlannedBytes":  19121356,
+                        "DeletedBytes":  19121356,
+                        "DeletedFiles":  9,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\codex-browser-app\\Cache",
+                        "PlannedBytes":  6099332,
+                        "DeletedBytes":  20,
+                        "DeletedFiles":  1,
+                        "SkippedFiles":  6,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\Default\\Cache",
+                        "PlannedBytes":  55496707,
+                        "DeletedBytes":  47038099,
+                        "DeletedFiles":  148,
+                        "SkippedFiles":  6,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\Default\\Partitions\\codex-browser-app\\Cache",
+                        "PlannedBytes":  6556784,
+                        "DeletedBytes":  457472,
+                        "DeletedFiles":  5,
+                        "SkippedFiles":  6,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\GrShaderCache",
+                        "PlannedBytes":  10756788,
+                        "DeletedBytes":  1511748,
+                        "DeletedFiles":  76,
+                        "SkippedFiles":  5,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "PipDownloadCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\pip\\cache",
+                        "PlannedBytes":  2835372115,
+                        "DeletedBytes":  2835372115,
+                        "DeletedFiles":  1068,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Steam\\htmlcache\\Default\\Cache",
+                        "PlannedBytes":  85254367,
+                        "DeletedBytes":  85254367,
+                        "DeletedFiles":  543,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Steam\\htmlcache\\Default\\Code Cache",
+                        "PlannedBytes":  22175454,
+                        "DeletedBytes":  22175454,
+                        "DeletedFiles":  319,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Sublime Text\\Cache",
+                        "PlannedBytes":  13147234,
+                        "DeletedBytes":  13147234,
+                        "DeletedFiles":  430,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "Temp",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Temp",
+                        "PlannedBytes":  211700,
+                        "DeletedBytes":  105850,
+                        "DeletedFiles":  1,
+                        "SkippedFiles":  1,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache",
+                        "PlannedBytes":  172631079,
+                        "DeletedBytes":  172631079,
+                        "DeletedFiles":  319,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\LocalLow\\Intel\\ShaderCache",
+                        "PlannedBytes":  16026515,
+                        "DeletedBytes":  10727239,
+                        "DeletedFiles":  233,
+                        "SkippedFiles":  16,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Antigravity\\Cache",
+                        "PlannedBytes":  12389748,
+                        "DeletedBytes":  12389748,
+                        "DeletedFiles":  51,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Antigravity\\CachedData",
+                        "PlannedBytes":  97203279,
+                        "DeletedBytes":  97203279,
+                        "DeletedFiles":  83,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\Cache",
+                        "PlannedBytes":  6202413,
+                        "DeletedBytes":  103101,
+                        "DeletedFiles":  3,
+                        "SkippedFiles":  6,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\CachedData",
+                        "PlannedBytes":  14574603,
+                        "DeletedBytes":  14574603,
+                        "DeletedFiles":  16,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\CyberLink\\WebView\\CLUpdater.exe\\3\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  6135037,
+                        "DeletedBytes":  6135037,
+                        "DeletedFiles":  8,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\CyberLink\\WebView\\Trial.exe\\5\\EBWebView\\Default\\Cache",
+                        "PlannedBytes":  6597695,
+                        "DeletedBytes":  6597695,
+                        "DeletedFiles":  19,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\discord\\Cache",
+                        "PlannedBytes":  200097690,
+                        "DeletedBytes":  200097690,
+                        "DeletedFiles":  708,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\logioptionsplus\\Cache",
+                        "PlannedBytes":  18271798,
+                        "DeletedBytes":  18271798,
+                        "DeletedFiles":  13,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Cache",
+                        "PlannedBytes":  17575792,
+                        "DeletedBytes":  17575792,
+                        "DeletedFiles":  8,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Partitions\\notion\\Cache",
+                        "PlannedBytes":  413072188,
+                        "DeletedBytes":  413072188,
+                        "DeletedFiles":  2076,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Partitions\\notion\\Code Cache",
+                        "PlannedBytes":  12144419,
+                        "DeletedBytes":  12144419,
+                        "DeletedFiles":  109,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Partitions\\notion\\Shared Dictionary\\cache",
+                        "PlannedBytes":  11411310,
+                        "DeletedBytes":  11411310,
+                        "DeletedFiles":  977,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\obsidian\\Cache",
+                        "PlannedBytes":  24090119,
+                        "DeletedBytes":  24090119,
+                        "DeletedFiles":  9,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\obsidian\\Code Cache",
+                        "PlannedBytes":  24872328,
+                        "DeletedBytes":  24872328,
+                        "DeletedFiles":  50,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Riot Client\\Cache",
+                        "PlannedBytes":  82492781,
+                        "DeletedBytes":  82492781,
+                        "DeletedFiles":  63,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\Default\\Code Cache",
+                        "PlannedBytes":  6697766,
+                        "DeletedBytes":  6697766,
+                        "DeletedFiles":  39,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_commonwebapp_default\\Cache",
+                        "PlannedBytes":  10896302,
+                        "DeletedBytes":  10896302,
+                        "DeletedFiles":  46,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_commonwebapp_default\\Code Cache",
+                        "PlannedBytes":  62979909,
+                        "DeletedBytes":  62979909,
+                        "DeletedFiles":  239,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_zoomapps_udcasbfbrfo_22a1upgb6g\\Cache",
+                        "PlannedBytes":  6099336,
+                        "DeletedBytes":  6099336,
+                        "DeletedFiles":  7,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "ApplicationWebCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_zoomapps_udcasbfbrfo_22a1upgb6g\\Code Cache",
+                        "PlannedBytes":  65101194,
+                        "DeletedBytes":  65101194,
+                        "DeletedFiles":  86,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "VisualStudioGeneratedCache",
+                        "Path":  "C:\\Users\\JH\\Documents\\2026\\ETRI\\JH_folder\\.vs",
+                        "PlannedBytes":  1685052435,
+                        "DeletedBytes":  1685052435,
+                        "DeletedFiles":  4,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    },
+                    {
+                        "Category":  "VisualStudioGeneratedCache",
+                        "Path":  "C:\\Work\\assignment_0\\.vs",
+                        "PlannedBytes":  60669627,
+                        "DeletedBytes":  60669627,
+                        "DeletedFiles":  6,
+                        "SkippedFiles":  0,
+                        "Unreadable":  0
+                    }
+                ]
+}

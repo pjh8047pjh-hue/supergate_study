@@ -1,0 +1,310 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work
+vblake_64
+Z1 !s110 1792393014
+!i10b 1
+!s100 f>l874cckhEI5g66g^O0W3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPJQkngC0dUz8XP4];Ak7f2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1792230196
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64.v
+!i122 0
+L0 4 215
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1792393014.000000
+!s107 C:\Work\tmp\blake64-simulator-check-2eed54a9\simulator_check.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sim_1\imports\assignment_3\tb_blake_64.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_2.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_1_.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_0.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_state_mux.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_output_comb.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_msg_mux.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_input.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_g_function.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_fsm.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_counter.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64.v|
+Z6 !s90 -work|C:\Work\tmp\blake64-simulator-check-2eed54a9\work|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_counter.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_fsm.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_g_function.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_input.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_msg_mux.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_output_comb.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_state_mux.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_0.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_1_.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_2.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sim_1\imports\assignment_3\tb_blake_64.v|C:\Work\tmp\blake64-simulator-check-2eed54a9\simulator_check.v|
+!i113 1
+Z7 o-work {C:\Work\tmp\blake64-simulator-check-2eed54a9\work}
+Z8 tCvgOpt 0
+vblake_64_counter
+R1
+!i10b 1
+!s100 Q6]1^:QL5f@iYP:2[5Kl<0
+R2
+IO^Co^Km^IIL2KT:nJ54RN0
+R3
+R0
+w1792377057
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_counter.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_counter.v
+!i122 0
+L0 2 49
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 C:\Work\tmp\blake64-simulator-check-2eed54a9\simulator_check.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sim_1\imports\assignment_3\tb_blake_64.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_2.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_1_.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_0.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_state_mux.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_output_comb.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_msg_mux.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_input.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_g_function.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_fsm.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_counter.v|C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64.v|
+R6
+!i113 1
+R7
+R8
+vblake_64_fsm
+R1
+!i10b 1
+!s100 gYn48EVJN>V5>aHQ;j_T20
+R2
+Ic_ZBA8Qg8OAQ@TDh>:R^b0
+R3
+R0
+w1792370795
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_fsm.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_fsm.v
+!i122 0
+L0 2 80
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_64_g_function
+R1
+!i10b 1
+!s100 h=0A@c9@F;fQl6QlMII;V3
+R2
+I2gWM`VGoiS6`MVdlDMZhO1
+R3
+R0
+w1792392702
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_g_function.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_g_function.v
+!i122 0
+L0 1 61
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_64_input
+R1
+!i10b 1
+!s100 8RXYz]4Z7bUE2b>BfHAm]0
+R2
+IcSGjGEWaefNg;l4V:N`522
+R3
+R0
+w1792143529
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_input.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_input.v
+!i122 0
+L0 1 60
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_64_msg_mux
+R1
+!i10b 1
+!s100 LF<04Wh<G>aLSS4MJDMhe1
+R2
+IOjALZW1j<957@lN;VlE`@3
+R3
+R0
+w1792143143
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_msg_mux.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_msg_mux.v
+!i122 0
+L0 1 207
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_64_output_comb
+R1
+!i10b 1
+!s100 ICdaDPSGg=UeGFge_C0>`1
+R2
+Ic`1el>4bBBMWMCbdiG]AO2
+R3
+R0
+w1792392640
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_output_comb.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_output_comb.v
+!i122 0
+L0 1 38
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_64_state_mux
+R1
+!i10b 1
+!s100 SYcjj?iF_Qo@B?ESdz:K;3
+R2
+IQEh4P=h6lC1J8aVK7H]ia1
+R3
+R0
+w1792143153
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_state_mux.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_64_state_mux.v
+!i122 0
+L0 1 75
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_rbit_0
+R1
+!i10b 1
+!s100 YKNQJQ3>3L3FzhC_E6WT41
+R2
+II3EmBR:Sf8gH3;>aV8`d@0
+R3
+R0
+w1792024577
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_0.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_0.v
+!i122 0
+L0 3 14
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_rbit_1
+R1
+!i10b 1
+!s100 2f8dS_FCblhFnQ7VaML2m3
+R2
+IX;QLlo7jlG^mlnCaUigO<3
+R3
+R0
+w1710911102
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_1_.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_1_.v
+!i122 0
+L0 3 15
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vblake_rbit_2
+R1
+!i10b 1
+!s100 naXE=Vm:`1OIS^VVUJeYk0
+R2
+Iefej]T6X=gBi@lI0<50lE3
+R3
+R0
+w1610358444
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_2.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sources_1\imports\assignment_3\blake_rbit_2.v
+!i122 0
+L0 3 20
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vsimulator_check
+R1
+!i10b 1
+!s100 _W]X;;QYFYIhBoYk52c^z1
+R2
+IXCK?Va;?Q@8?gKDPLXm:M0
+R3
+R0
+w1792393014
+8C:\Work\tmp\blake64-simulator-check-2eed54a9\simulator_check.v
+FC:\Work\tmp\blake64-simulator-check-2eed54a9\simulator_check.v
+!i122 0
+L0 2 15
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vtb
+R1
+!i10b 1
+!s100 aJjc3jd7:ZZ43h4=6;7>f2
+R2
+IOG5`THjImEeQR3WUcl1110
+R3
+R0
+w1792377288
+8C:\Users\JH\project_blake_64\project_blake_64.srcs\sim_1\imports\assignment_3\tb_blake_64.v
+FC:\Users\JH\project_blake_64\project_blake_64.srcs\sim_1\imports\assignment_3\tb_blake_64.v
+!i122 0
+L0 4 130
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8

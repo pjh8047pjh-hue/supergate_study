@@ -1,0 +1,365 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/assignment_1
+vblake
+Z1 !s110 1791731594
+!i10b 1
+!s100 fKLTg7bL4i0n<BVL:33n@2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii<FQU@4Yfn?09m_`;MS]31
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791731590
+8./blake_RTL.v
+F./blake_RTL.v
+!i122 20
+L0 4 203
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1791731594.000000
+Z6 !s107 ./blake_RTL.v|./G_function.v|./state_mux.v|./msg_mux.v|./blake_counter.v|./blake_FSM.v|
+Z7 !s90 -reportprogress|300|./blake_FSM.v|./blake_counter.v|./msg_mux.v|./state_mux.v|./G_function.v|./blake_RTL.v|
+!i113 1
+Z8 tCvgOpt 0
+vblake_counter
+R1
+!i10b 1
+!s100 :;Xg=5OcGVk2G4QOAk[V`0
+R2
+IhR8M`zJKD2S8i1m^ccaWa1
+R3
+R0
+w1791729408
+8./blake_counter.v
+F./blake_counter.v
+!i122 20
+Z9 L0 2 26
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vblake_FSM
+R1
+!i10b 1
+!s100 KO=5:7]2Yh?lUnaLO`i253
+R2
+IiAWWMPcdF4:fnBGlCF`HZ2
+R3
+R0
+Z10 w1791730129
+8./blake_FSM.v
+F./blake_FSM.v
+!i122 20
+L0 2 88
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+nblake_@f@s@m
+vblake_rtl
+Z11 !s110 1792109824
+!i10b 1
+!s100 D6bm<4<@a65G_zlN=YH^@2
+R2
+I9UBKIAbMj9gifXBA<8EzK3
+R3
+R0
+w1792046966
+8./blake_rtl.v
+F./blake_rtl.v
+!i122 94
+L0 4 122
+R4
+r1
+!s85 0
+31
+Z12 !s108 1792109824.000000
+Z13 !s107 ./blake_rtl_filpflop.v|./blake_rtl.v|./blake_rtl_g_function.v|./blake_rtl_state_mux.v|./blake_rtl_msg_mux.v|./blake_rtl_counter.v|./blake_rtl_fsm.v|./blake_rtl_output_comb.v|./blake_rtl_input.v|
+Z14 !s90 -reportprogress|300|./blake_rtl_input.v|./blake_rtl_output_comb.v|./blake_rtl_fsm.v|./blake_rtl_counter.v|./blake_rtl_msg_mux.v|./blake_rtl_state_mux.v|./blake_rtl_g_function.v|./blake_rtl.v|./blake_rtl_filpflop.v|
+!i113 1
+R8
+vblake_rtl_counter
+R11
+!i10b 1
+!s100 L3@0nc?LPgYNQQZUoUbWo0
+R2
+IQfCRWR4Hk6aDVB`:KLeD;1
+R3
+R0
+w1791857400
+8./blake_rtl_counter.v
+F./blake_rtl_counter.v
+!i122 94
+R9
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vblake_rtl_filpflop
+R11
+!i10b 1
+!s100 <kUV0BTS0HYZ:T?UK[P=:2
+R2
+IY@3_a78@Ll20R<hz=[N[S1
+R3
+R0
+w1792109818
+8./blake_rtl_filpflop.v
+F./blake_rtl_filpflop.v
+!i122 94
+L0 1 36
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vblake_rtl_fsm
+R11
+!i10b 1
+!s100 YPX;>5`GBCjEizW0NBU9K3
+R2
+I=hmfbkO8[T1_=^CgdVKTX0
+R3
+R0
+w1792024010
+8./blake_rtl_fsm.v
+F./blake_rtl_fsm.v
+!i122 94
+L0 2 45
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vblake_rtl_g_function
+R11
+!i10b 1
+!s100 BzfW`:Zj>1?aZHQEHM;ok2
+R2
+INXZ5I2[19z7_B:gMHG?:Y1
+R3
+R0
+w1792051445
+8./blake_rtl_g_function.v
+F./blake_rtl_g_function.v
+!i122 94
+L0 1 61
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vblake_rtl_input
+R11
+!i10b 1
+!s100 AiXFVEQFICgdRQ>W?deI<1
+R2
+Idi_^;Pjl>2OoI7Ojh_59W0
+R3
+R0
+w1792046084
+8./blake_rtl_input.v
+F./blake_rtl_input.v
+!i122 94
+L0 1 104
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vblake_rtl_msg_mux
+R11
+!i10b 1
+!s100 8Fn>AFeh1=D0gRE<]`A2X2
+R2
+IgchcCE[7>S3<GHON=0:5g0
+R3
+R0
+w1792023137
+8./blake_rtl_msg_mux.v
+F./blake_rtl_msg_mux.v
+!i122 94
+L0 1 207
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vblake_rtl_output_comb
+R11
+!i10b 1
+!s100 fXPODM6IRd0g0o0[>FMGV3
+R2
+I^2N<:Zf4cB^2C=7cgcNC`2
+R3
+R0
+w1792021976
+8./blake_rtl_output_comb.v
+F./blake_rtl_output_comb.v
+!i122 94
+L0 1 34
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vblake_rtl_state_mux
+R11
+!i10b 1
+!s100 8a31TbHXgl9O>`QXTYZzm3
+R2
+Ij;`<3>U1;lPM>7[<30jk^3
+R3
+R0
+w1792047069
+8./blake_rtl_state_mux.v
+F./blake_rtl_state_mux.v
+!i122 94
+L0 1 75
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R8
+vG_function
+R1
+!i10b 1
+!s100 2I;T1Y37HRLfgnSfdBlYP1
+R2
+Io:X_dI_85?;VFGL?cP3`c3
+R3
+R0
+R10
+8./G_function.v
+F./G_function.v
+!i122 20
+L0 2 65
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@g_function
+vmsg_mux
+R1
+!i10b 1
+!s100 XTFU2b^jE]:a@[KH[C`Ek2
+R2
+Ib4KGZMSk;YAH5[;>46SB91
+R3
+R0
+Z15 w1791723671
+8./msg_mux.v
+F./msg_mux.v
+!i122 20
+L0 2 95
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vstate_mux
+R1
+!i10b 1
+!s100 fgJ:n>5;JbM4<9c^IIgWB0
+R2
+I@NlUVT3Cg[SdC`[57:>BU3
+R3
+R0
+R15
+8./state_mux.v
+F./state_mux.v
+!i122 20
+L0 1 29
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vtb
+R11
+!i10b 1
+!s100 H3MNYYlPW=g;hWZ>CDhFP0
+R2
+IJ<@b`on]_JHLINc6HB@[X1
+R3
+R0
+w1791852425
+8./tb.v
+F./tb.v
+!i122 95
+L0 4 94
+R4
+r1
+!s85 0
+31
+R12
+!s107 ./tb.v|
+!s90 -reportprogress|300|./tb.v|
+!i113 1
+R8

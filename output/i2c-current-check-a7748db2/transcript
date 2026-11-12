@@ -1,0 +1,19 @@
+# do check.do
+# vsim -voptargs="+acc" work.tb_rx 
+# Start time: 08:53:09 on Nov 03,2026
+# Loading work.tb_rx
+# Loading work.i2c_master_top
+# Loading work.i2c_master_byte_ctrl
+# Loading work.i2c_master_bit_ctrl
+# Loading work.ass_i2c_slave
+# Loading work.ass_i2c_slave_rx
+# Loading work.ass_i2c_slave_rx_ctrl
+# Loading work.ass_i2c_slave_rf
+# RDATA_RESET_FAIL
+# ** Note: $finish    : tb_rx.v(113)
+#    Time: 0 ps  Iteration: 1  Instance: /tb_rx
+# Break in Module tb_rx at tb_rx.v line 113
+# Stopped at tb_rx.v line 113
+# MEMORY_FAIL:10:xx
+# End time: 08:53:10 on Nov 03,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

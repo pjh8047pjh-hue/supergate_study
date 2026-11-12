@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/CDC
+vcdc_rx
+Z1 !s110 1794199863
+!i10b 1
+!s100 6[DzDbj^SPY73AZGQ?9dH0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IW?z<ze95M@f<@dHz4E<nS0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1794199858
+8cdc_rx.v
+Fcdc_rx.v
+!i122 128
+L0 2 54
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1794199863.000000
+!s107 cdc_rx.v|
+!s90 -reportprogress|300|cdc_rx.v|
+!i113 1
+Z6 tCvgOpt 0
+vcdc_top
+R1
+!i10b 1
+!s100 <hWXcF9<:QT5ZjIWWV_PR0
+R2
+I1dDlV>Hl174[3?7hl9THf1
+R3
+R0
+w1794182714
+8cdc_top.v
+Fcdc_top.v
+!i122 129
+L0 4 41
+R4
+r1
+!s85 0
+31
+R5
+!s107 cdc_top.v|
+!s90 -reportprogress|300|cdc_top.v|
+!i113 1
+R6
+vcdc_tx
+R1
+!i10b 1
+!s100 flJWc[1h?T352=NSc`Vbf1
+R2
+II[2Z7j=2_DFKfSc1MR:3R1
+R3
+R0
+w1794198180
+8cdc_tx.v
+Fcdc_tx.v
+!i122 130
+L0 3 58
+R4
+r1
+!s85 0
+31
+R5
+!s107 cdc_tx.v|
+!s90 -reportprogress|300|cdc_tx.v|
+!i113 1
+R6
+vtb_cdc_top
+R1
+!i10b 1
+!s100 U_6PmkU@iCi@CMC;UeS]C1
+R2
+IId5=FM^_Q?W@zUF>zigge3
+R3
+R0
+w1794181599
+8tb_cdc_top.v
+Ftb_cdc_top.v
+!i122 131
+L0 3 56
+R4
+r1
+!s85 0
+31
+R5
+!s107 tb_cdc_top.v|
+!s90 -reportprogress|300|tb_cdc_top.v|
+!i113 1
+R6

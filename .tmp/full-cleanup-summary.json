@@ -1,0 +1,11 @@
+﻿{
+    "Completed":  true,
+    "InitialFreeBytes":  80215908352,
+    "FinalFreeBytes":  104329490432,
+    "FreeIncreaseBytes":  24113582080,
+    "TrackedDeletedFileBytes":  12135955404,
+    "WindowsUpdateDownloadCleaned":  true,
+    "WindowsComponentCleanupExitCode":  0,
+    "Preserved":  "Documents, source files, final wave configuration, installed programs and conda environments",
+    "Skipped":  "Locked files and currently required files"
+}

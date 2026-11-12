@@ -1,0 +1,344 @@
+﻿{
+    "Mode":  "Delete",
+    "BeforeFreeBytes":  69859094528,
+    "AfterFreeBytes":  78381211648,
+    "PlannedBytes":  8616546114,
+    "DeletedBytes":  7802065565,
+    "DeletedFiles":  11756,
+    "Groups":  [
+                   {
+                       "Category":  "Temp",
+                       "PlannedBytes":  4485117077,
+                       "DeletedBytes":  4485011227,
+                       "DeletedFiles":  5407,
+                       "SkippedFiles":  21
+                   },
+                   {
+                       "Category":  "LogitechCache",
+                       "PlannedBytes":  801323371,
+                       "DeletedBytes":  0,
+                       "DeletedFiles":  0,
+                       "SkippedFiles":  30
+                   },
+                   {
+                       "Category":  "VSCodeCache",
+                       "PlannedBytes":  1326424817,
+                       "DeletedBytes":  1313373489,
+                       "DeletedFiles":  400,
+                       "SkippedFiles":  21
+                   },
+                   {
+                       "Category":  "ChromeCache",
+                       "PlannedBytes":  1061771041,
+                       "DeletedBytes":  1061771041,
+                       "DeletedFiles":  5933,
+                       "SkippedFiles":  0
+                   },
+                   {
+                       "Category":  "PreviousRuntime",
+                       "PlannedBytes":  941909808,
+                       "DeletedBytes":  941909808,
+                       "DeletedFiles":  16,
+                       "SkippedFiles":  0
+                   }
+               ],
+    "Targets":  [
+                    {
+                        "Category":  "Temp",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Temp",
+                        "PlannedBytes":  4485117077,
+                        "DeletedBytes":  4485011227,
+                        "DeletedFiles":  5407,
+                        "SkippedFiles":  21,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "LogitechCache",
+                        "Path":  "C:\\ProgramData\\LogiOptionsPlus\\cache",
+                        "PlannedBytes":  801323371,
+                        "DeletedBytes":  0,
+                        "DeletedFiles":  0,
+                        "SkippedFiles":  30,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "VSCodeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\CachedExtensionVSIXs",
+                        "PlannedBytes":  1084539764,
+                        "DeletedBytes":  1084539764,
+                        "DeletedFiles":  31,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "VSCodeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\CachedData",
+                        "PlannedBytes":  216563240,
+                        "DeletedBytes":  216563240,
+                        "DeletedFiles":  314,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "VSCodeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\Cache",
+                        "PlannedBytes":  18271193,
+                        "DeletedBytes":  12171881,
+                        "DeletedFiles":  34,
+                        "SkippedFiles":  6,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "VSCodeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\Code Cache",
+                        "PlannedBytes":  98604,
+                        "DeletedBytes":  98604,
+                        "DeletedFiles":  21,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "VSCodeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\GPUCache",
+                        "PlannedBytes":  5837168,
+                        "DeletedBytes":  0,
+                        "DeletedFiles":  0,
+                        "SkippedFiles":  5,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "VSCodeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\DawnGraphiteCache",
+                        "PlannedBytes":  557424,
+                        "DeletedBytes":  0,
+                        "DeletedFiles":  0,
+                        "SkippedFiles":  5,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "VSCodeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\DawnWebGPUCache",
+                        "PlannedBytes":  557424,
+                        "DeletedBytes":  0,
+                        "DeletedFiles":  0,
+                        "SkippedFiles":  5,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\component_crx_cache",
+                        "PlannedBytes":  165306204,
+                        "DeletedBytes":  165306204,
+                        "DeletedFiles":  21,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\extensions_crx_cache",
+                        "PlannedBytes":  83551783,
+                        "DeletedBytes":  83551783,
+                        "DeletedFiles":  6,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\ShaderCache",
+                        "PlannedBytes":  1642864,
+                        "DeletedBytes":  1642864,
+                        "DeletedFiles":  5,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\GrShaderCache",
+                        "PlannedBytes":  12064156,
+                        "DeletedBytes":  12064156,
+                        "DeletedFiles":  148,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\GraphiteDawnCache",
+                        "PlannedBytes":  557424,
+                        "DeletedBytes":  557424,
+                        "DeletedFiles":  5,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache",
+                        "PlannedBytes":  450684616,
+                        "DeletedBytes":  450684616,
+                        "DeletedFiles":  2101,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache",
+                        "PlannedBytes":  335338098,
+                        "DeletedBytes":  335338098,
+                        "DeletedFiles":  3626,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\GPUCache",
+                        "PlannedBytes":  6231304,
+                        "DeletedBytes":  6231304,
+                        "DeletedFiles":  11,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnGraphiteCache",
+                        "PlannedBytes":  557424,
+                        "DeletedBytes":  557424,
+                        "DeletedFiles":  5,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "ChromeCache",
+                        "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnWebGPUCache",
+                        "PlannedBytes":  5837168,
+                        "DeletedBytes":  5837168,
+                        "DeletedFiles":  5,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-568f97e2-2b41-4124-9af1-97400b5efbb9",
+                        "PlannedBytes":  117072504,
+                        "DeletedBytes":  117072504,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-75e8e757-518d-46b6-a1c3-0aeaca58fc07",
+                        "PlannedBytes":  117960800,
+                        "DeletedBytes":  117960800,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-7f2950e1-9e83-417f-a015-04de71670a20",
+                        "PlannedBytes":  117960800,
+                        "DeletedBytes":  117960800,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-adf93f35-3def-40ef-bbcf-15437dd2c5ae",
+                        "PlannedBytes":  117960800,
+                        "DeletedBytes":  117960800,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-b0476ec7-af3e-4e08-aca5-3db52802bfc0",
+                        "PlannedBytes":  117960800,
+                        "DeletedBytes":  117960800,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-b4ad830d-daae-4954-939a-1a01b1f6c8ee",
+                        "PlannedBytes":  117960800,
+                        "DeletedBytes":  117960800,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-e5cd59a5-4d0f-4da0-987a-fb627e0b8dcd",
+                        "PlannedBytes":  117072504,
+                        "DeletedBytes":  117072504,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    },
+                    {
+                        "Category":  "PreviousRuntime",
+                        "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime.previous-ec6e6806-1dab-4e0c-8194-8b35ee70ae44",
+                        "PlannedBytes":  117960800,
+                        "DeletedBytes":  117960800,
+                        "DeletedFiles":  2,
+                        "SkippedFiles":  0,
+                        "ReadFailures":  0,
+                        "ReparseSkipped":  0,
+                        "AtomicSkipped":  false
+                    }
+                ]
+}

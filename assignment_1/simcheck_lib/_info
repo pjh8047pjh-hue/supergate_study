@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/assignment_1
+vblake
+!s110 1791354273
+!i10b 1
+!s100 EUbI3:aE5mOX68P5?3>?Z3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoO0MFj4[fWN=>jP^dcimX3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791354263
+8C:\Work\assignment_1\blake.v
+FC:\Work\assignment_1\blake.v
+!i122 0
+L0 4 190
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1791354273.000000
+!s107 C:\Work\assignment_1\tb.v|C:\Work\assignment_1\blake.v|
+Z4 !s90 -work|C:\Work\assignment_1\simcheck_lib|C:\Work\assignment_1\blake.v|C:\Work\assignment_1\tb.v|
+!i113 1
+Z5 o-work {C:\Work\assignment_1\simcheck_lib}
+Z6 tCvgOpt 0
+vtb
+!s110 1791355625
+!i10b 1
+!s100 4^l_K2WV8E6DekQRn]1k<2
+R1
+I>zh3mEYRNC[MG0fQ;3?<h3
+R2
+R0
+w1618530842
+8C:\Work\assignment_1\tb.v
+FC:\Work\assignment_1\tb.v
+!i122 1
+L0 4 94
+R3
+r1
+!s85 0
+31
+!s108 1791355625.000000
+Z7 !s107 C:\Work\assignment_1\tb.v|C:\Work\assignment_1\blake.v|
+R4
+!i113 1
+R5
+R6

@@ -1,0 +1,120 @@
+<div id="i2c-address-timing">
+  <h3>READ 요청 전후의 주소 유지</h3>
+  <div class="text-small text-muted">설계 의도 기준 · ACK 정상 가정 · 내부 clk 지연은 생략 · 값은 16진수</div>
+  <div class="iat-chart" id="iat-overview"></div>
+  <h3>E9 수신 구간 확대</h3>
+  <div class="iat-chart" id="iat-detail"></div>
+</div>
+<style>
+  #i2c-address-timing { color:var(--foreground); display:grid; gap:calc(var(--font-size-base) * .75); }
+  #i2c-address-timing .iat-chart { min-width:0; }
+  #i2c-address-timing .iat-chart svg { display:block; width:100%; }
+  #i2c-address-timing svg text { fill:var(--foreground); font-size:12px; font-weight:400; }
+  #i2c-address-timing svg .iat-grid { stroke:var(--border); stroke-width:1; }
+  #i2c-address-timing svg .iat-signal { stroke:var(--foreground); stroke-width:1.5; fill:none; }
+  #i2c-address-timing svg .iat-keep { stroke:var(--viz-series-1); stroke-width:2; fill:none; }
+  #i2c-address-timing svg .iat-shared { stroke:var(--viz-series-2); stroke-width:2; fill:none; }
+</style>
+<script>
+(() => {
+  const root = document.getElementById('i2c-address-timing');
+  const ns = 'http://www.w3.org/2000/svg';
+  const hex = n => n.toString(16).toUpperCase().padStart(2,'0');
+  const addressBits = [1,1,1,0,1,0,0,1];
+  const dataBits = [1,1,1,1,0,1,0,1];
+  const shifted = initial => {
+    let value = initial;
+    return addressBits.map(bit => hex(value = ((value << 1) | bit) & 255));
+  };
+  function node(tag, attrs, parent, text) {
+    const el = document.createElementNS(ns,tag);
+    Object.entries(attrs || {}).forEach(([key,value]) => el.setAttribute(key,String(value)));
+    if (text !== undefined) el.textContent = text;
+    parent.appendChild(el);
+    return el;
+  }
+  function svgFor(container, height, summary) {
+    container.replaceChildren();
+    const width = Math.max(300,Math.round(container.getBoundingClientRect().width));
+    const svg = node('svg',{viewBox:`0 0 ${width} ${height}`,height,role:'img','aria-label':summary},container);
+    node('title',{},svg,summary);
+    return {svg,width};
+  }
+  function text(svg,x,y,label,anchor='start') {
+    return node('text',{x,y,'text-anchor':anchor},svg,label);
+  }
+  function path(svg,d,kind='iat-signal') { return node('path',{d,class:kind},svg); }
+  function bus(svg,x1,x2,y,label,kind='iat-signal') {
+    if (x2-x1 < 5) return;
+    const notch = Math.min(4,(x2-x1)/4);
+    path(svg,`M${x1} ${y} L${x1+notch} ${y-11} H${x2-notch} L${x2} ${y} L${x2-notch} ${y+11} H${x1+notch} Z`,kind);
+    if (label) text(svg,(x1+x2)/2,y+4,label,'middle');
+  }
+  function overview() {
+    const box = root.querySelector('#iat-overview');
+    const {svg,width} = svgFor(box,338,'주소 0A 설정 후 E9를 수신하는 동안 wdata만 바뀌고 addr와 rdata는 유지된다. F5 전송 완료와 마스터 ACK 후 addr가 0B로 증가한다.');
+    const left = width < 450 ? 76 : 100;
+    const right = width-6;
+    const unit = (right-left)/20;
+    const x = t => left+t*unit;
+    text(svg,0,15,'시작: addr=0A, wdata=E8');
+    text(svg,x(4.5),43,'E9 수신','middle');
+    text(svg,x(4.5),60,'마스터 → 슬레이브','middle');
+    text(svg,x(13.5),43,'F5 전송','middle');
+    text(svg,x(13.5),60,'슬레이브 → 마스터','middle');
+    for (const t of [0,8,9,17,18]) node('line',{x1:x(t),x2:x(t),y1:70,y2:306,class:'iat-grid'},svg);
+    const levels = [...addressBits,0,...dataBits,0];
+    text(svg,0,95,'SCL');
+    let clock = `M${x(0)} 101`;
+    for(let i=0;i<18;i++) clock += ` H${x(i+.25)} V79 H${x(i+.75)} V101 H${x(i+1)}`;
+    clock += ` H${right}`;
+    path(svg,clock);
+    text(svg,0,140,'SDA');
+    let data = `M${x(0)} ${levels[0] ? 122 : 146}`;
+    levels.forEach((level,i) => { data += ` V${level ? 122 : 146} H${x(i+1)}`; });
+    path(svg,data);
+    if (width >= 500) levels.forEach((bit,i) => text(svg,x(i+.5),166,(i===8 || i===17) ? 'A' : String(bit),'middle'));
+    text(svg,x(8.5),width>=500?184:166,'ACK','middle');
+    text(svg,x(17.5),width>=500?184:166,'ACK','middle');
+    text(svg,0,211,'wdata');
+    bus(svg,x(0),x(7.3),207,'수신 중');
+    bus(svg,x(7.3),right,207,'E9 유지');
+    text(svg,0,252,'addr');
+    bus(svg,x(0),x(17.3),248,'0A 유지','iat-keep');
+    bus(svg,x(17.3),right,248,'0B','iat-keep');
+    text(svg,0,293,'rdata');
+    bus(svg,x(0),x(17.45),289,'F5 유지');
+    bus(svg,x(17.45),right,289,'FB');
+    text(svg,right,330,'시간 →  |  마지막 ACK 후 주소 증가, 다음 clk에 rdata 갱신','end');
+    if(width < 540) {
+      svg.lastChild.textContent = 'ACK 후: addr 증가 → 다음 clk에 rdata 갱신';
+      svg.lastChild.setAttribute('x',0);
+      svg.lastChild.setAttribute('text-anchor','start');
+    }
+  }
+  function detail() {
+    const box = root.querySelector('#iat-detail');
+    const {svg,width} = svgFor(box,282,'E9의 각 비트를 수신한 직후, 현재 구조의 addr는 0A로 유지된다. Slave 주소까지 addr에 넣으면 15, 2B, 57, AE, 5D, BA, 74, E9로 변해 원래 주소를 잃는다.');
+    const left = width < 450 ? 76 : 100;
+    const unit = (width-left-6)/8;
+    const x = t => left+t*unit;
+    text(svg,0,16,'각 비트를 수신한 직후의 값');
+    text(svg,0,49,'수신 비트');
+    addressBits.forEach((bit,i) => {
+      text(svg,x(i+.5),49,String(bit),'middle');
+      node('line',{x1:x(i),x2:x(i),y1:62,y2:240,class:'iat-grid'},svg);
+    });
+    text(svg,0,92,'wdata');
+    shifted(0xE8).forEach((value,i)=>bus(svg,x(i),x(i+1),88,value));
+    text(svg,0,142,'현재 addr');
+    bus(svg,x(0),x(8),138,'0A 유지','iat-keep');
+    text(svg,0,192,'공유 addr');
+    shifted(0x0A).forEach((value,i)=>bus(svg,x(i),x(i+1),188,value,'iat-shared'));
+    text(svg,0,231,'공유 addr: Slave 주소도 같은 addr로 받는 경우');
+    text(svg,0,264,'8비트 수신 후: 현재 addr=0A / 공유 addr=E9');
+  }
+  function render() { overview(); detail(); }
+  render();
+  new ResizeObserver(render).observe(root);
+})();
+</script>

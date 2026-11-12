@@ -1,0 +1,332 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/.tmp/i2c_order_check
+vass_i2c_slave
+Z1 !s110 1794359624
+!i10b 1
+!s100 LZm_Z33<LUF;dlFPa@Y3;3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjdDkWloK79`Hb3nP@W[;d1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794359598
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave.v
+!i122 0
+L0 3 125
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794359624.000000
+!s107 C:\Work\assignment_6\i2c_rx_assignment\design\rtl\two_level_synchronizer.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_fifo_dc.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_dpram.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\edge_detecter.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\cdc_handshake_sync.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_fsm.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_cdc.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_scl_counter.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx_ctrl.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf_v2.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec_fsm.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave.v|
+Z7 !s90 -work|after|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec_fsm.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf_v2.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx_ctrl.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_scl_counter.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_cdc.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_fsm.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\cdc_handshake_sync.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\edge_detecter.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_dpram.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_fifo_dc.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\two_level_synchronizer.v|
+!i113 1
+Z8 o-work after
+Z9 tCvgOpt 0
+vass_i2c_slave_pkg_dec
+R1
+!i10b 1
+!s100 8LI7>1aP4H7YAjQ_lhP6i3
+R2
+Iob4]HhNUo<C_m?oK0CcQA3
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec.v
+!i122 0
+L0 1 106
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 C:\Work\assignment_6\i2c_rx_assignment\design\rtl\two_level_synchronizer.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_fifo_dc.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_dpram.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\edge_detecter.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\cdc_handshake_sync.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_fsm.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_cdc.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_scl_counter.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx_ctrl.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf_v2.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec_fsm.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec.v|C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave.v|
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_pkg_dec_fsm
+R1
+!i10b 1
+!s100 77HTVo;_;=HD8<JJ;I6DS3
+R2
+IGhMjjil?L>YGS^WIc4?@f0
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec_fsm.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_pkg_dec_fsm.v
+!i122 0
+L0 1 77
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rf
+R1
+!i10b 1
+!s100 T`VKa`[<ab>0?29?<ge`83
+R2
+I9]zJBmA4KGbLg2_575fLY3
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf.v
+!i122 0
+Z11 L0 3 27
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rf_v2
+R1
+!i10b 1
+!s100 ^JD9^UngdB9AE@K>O7Z[E2
+R2
+INdA3JV<]kKIETbRH9]Sl=1
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf_v2.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rf_v2.v
+!i122 0
+R11
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_rx
+R1
+!i10b 1
+!s100 V=Ck;SPVI@5?oMMn`J@Wo2
+R2
+IiSX:ne6?z;Z^cfbengZA]2
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_rx.v
+!i122 0
+L0 3 61
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_scl_counter
+R1
+!i10b 1
+!s100 [a[RlgF^DLShi`_@aZ81L3
+R2
+IKSXVCj?i19EA`:R0=1k622
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_scl_counter.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_scl_counter.v
+!i122 0
+L0 1 28
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_serdes
+R1
+!i10b 1
+!s100 bjYlPCmNdhZF[gjFgzn0C0
+R2
+I;Te]9T<dQVcUV14?HM^1_1
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes.v
+!i122 0
+L0 1 147
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vass_i2c_slave_serdes_fsm
+R1
+!i10b 1
+!s100 [XFamAWCoSSlHce=YSIXE3
+R2
+IP9zV?]<hjD[`?^GmJ7ido3
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_fsm.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\ass_i2c_slave_serdes_fsm.v
+!i122 0
+L0 1 160
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vcdc_handshake_sync
+R1
+!i10b 1
+!s100 o_?;UTack:NSkIk:=ZJ>=3
+R2
+IbCUadEm8Hz0fd=odP?ie00
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\cdc_handshake_sync.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\cdc_handshake_sync.v
+!i122 0
+L0 1 56
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vedge_detecter
+R1
+!i10b 1
+!s100 DFiW[;^AOn9dN1:Rma4<n3
+R2
+I<=A7fNHiKZT]F8>N`R;aI2
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\edge_detecter.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\edge_detecter.v
+!i122 0
+L0 1 49
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vgeneric_dpram
+R1
+!i10b 1
+!s100 _A]j^:0CPL>MT[U0mO3kV2
+R2
+I9^MMfI:3N49TeY[ChE>1[1
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_dpram.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_dpram.v
+!i122 0
+L0 99 248
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vgeneric_fifo_dc
+Z12 !s110 1794359625
+!i10b 1
+!s100 c=CWz<J[3`TLm1;hh?UCM3
+R2
+IUPISeMS39aLXR;zDT43U11
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_fifo_dc.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\generic_fifo_dc.v
+!i122 0
+L0 134 146
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vtwo_level_1bit_synchronizer
+R12
+!i10b 1
+!s100 HRE3j7D;06cSc20DlGhdK1
+R2
+I>0InLPF>2dAAm?m4i<T@j2
+R3
+R0
+R4
+8C:\Work\assignment_6\i2c_rx_assignment\design\rtl\two_level_synchronizer.v
+FC:\Work\assignment_6\i2c_rx_assignment\design\rtl\two_level_synchronizer.v
+!i122 0
+L0 1 21
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9

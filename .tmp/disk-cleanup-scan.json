@@ -1,0 +1,917 @@
+﻿{
+    "RootFolders":  [
+                        {
+                            "Path":  "C:\\Xilinx",
+                            "Parent":  0,
+                            "Bytes":  88671867409,
+                            "Files":  411928
+                        },
+                        {
+                            "Path":  "C:\\Users",
+                            "Parent":  0,
+                            "Bytes":  87098252201,
+                            "Files":  633658
+                        },
+                        {
+                            "Path":  "C:\\Windows",
+                            "Parent":  0,
+                            "Bytes":  53315563292,
+                            "Files":  233477
+                        },
+                        {
+                            "Path":  "C:\\Program Files",
+                            "Parent":  0,
+                            "Bytes":  17944268526,
+                            "Files":  72460
+                        },
+                        {
+                            "Path":  "C:\\Program Files (x86)",
+                            "Parent":  0,
+                            "Bytes":  12199994676,
+                            "Files":  31012
+                        },
+                        {
+                            "Path":  "C:\\ProgramData",
+                            "Parent":  0,
+                            "Bytes":  7022956643,
+                            "Files":  11429
+                        },
+                        {
+                            "Path":  "C:\\intelFPGA",
+                            "Parent":  0,
+                            "Bytes":  4544062157,
+                            "Files":  10290
+                        },
+                        {
+                            "Path":  "C:\\msys64",
+                            "Parent":  0,
+                            "Bytes":  1019307062,
+                            "Files":  22409
+                        },
+                        {
+                            "Path":  "C:\\Work",
+                            "Parent":  0,
+                            "Bytes":  394632954,
+                            "Files":  2111
+                        },
+                        {
+                            "Path":  "C:\\vitis_ws_mobilenetV2",
+                            "Parent":  0,
+                            "Bytes":  193702524,
+                            "Files":  4391
+                        },
+                        {
+                            "Path":  "C:\\Drivers",
+                            "Parent":  0,
+                            "Bytes":  154363986,
+                            "Files":  39
+                        },
+                        {
+                            "Path":  "C:\\Riot Games",
+                            "Parent":  0,
+                            "Bytes":  75632248,
+                            "Files":  1
+                        },
+                        {
+                            "Path":  "C:\\Recovery",
+                            "Parent":  0,
+                            "Bytes":  58856315,
+                            "Files":  106
+                        },
+                        {
+                            "Path":  "C:\\Kwang",
+                            "Parent":  0,
+                            "Bytes":  114115,
+                            "Files":  4
+                        },
+                        {
+                            "Path":  "C:\\$Recycle.Bin",
+                            "Parent":  0,
+                            "Bytes":  52343,
+                            "Files":  385
+                        },
+                        {
+                            "Path":  "C:\\Temp",
+                            "Parent":  0,
+                            "Bytes":  2491,
+                            "Files":  1
+                        },
+                        {
+                            "Path":  "C:\\.Trash-1000",
+                            "Parent":  0,
+                            "Bytes":  0,
+                            "Files":  0
+                        },
+                        {
+                            "Path":  "C:\\inetpub",
+                            "Parent":  0,
+                            "Bytes":  0,
+                            "Files":  0
+                        },
+                        {
+                            "Path":  "C:\\OneDriveTemp",
+                            "Parent":  0,
+                            "Bytes":  0,
+                            "Files":  0
+                        },
+                        {
+                            "Path":  "C:\\PerfLogs",
+                            "Parent":  0,
+                            "Bytes":  0,
+                            "Files":  0
+                        },
+                        {
+                            "Path":  "C:\\System Volume Information",
+                            "Parent":  0,
+                            "Bytes":  0,
+                            "Files":  0
+                        }
+                    ],
+    "LargeUserFolders":  [
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData",
+                                 "Parent":  132,
+                                 "Bytes":  53897928967,
+                                 "Files":  233121
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Local",
+                                 "Parent":  644,
+                                 "Bytes":  44390209909,
+                                 "Files":  158825
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3",
+                                 "Parent":  132,
+                                 "Bytes":  17748747333,
+                                 "Files":  312409
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages",
+                                 "Parent":  35021,
+                                 "Bytes":  17015473087,
+                                 "Files":  29291
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Roaming",
+                                 "Parent":  644,
+                                 "Bytes":  9260282645,
+                                 "Files":  73161
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft",
+                                 "Parent":  35021,
+                                 "Bytes":  8714031327,
+                                 "Files":  24930
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Local\\Google",
+                                 "Parent":  35021,
+                                 "Bytes":  7158547833,
+                                 "Files":  18881
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3\\pkgs",
+                                 "Parent":  643,
+                                 "Bytes":  6967100760,
+                                 "Files":  150358
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\Documents",
+                                 "Parent":  132,
+                                 "Bytes":  5937767416,
+                                 "Files":  8666
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\Documents\\2026",
+                                 "Parent":  649,
+                                 "Bytes":  5642109765,
+                                 "Files":  6723
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3\\envs",
+                                 "Parent":  643,
+                                 "Bytes":  5585254466,
+                                 "Files":  52022
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3\\envs\\spiking-fullsubnet",
+                                 "Parent":  35008,
+                                 "Bytes":  5585254466,
+                                 "Files":  52021
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion",
+                                 "Parent":  35023,
+                                 "Bytes":  5088332496,
+                                 "Files":  43058
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\.vscode",
+                                 "Parent":  132,
+                                 "Bytes":  4439056064,
+                                 "Files":  36074
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\.vscode\\extensions",
+                                 "Parent":  640,
+                                 "Bytes":  4439055249,
+                                 "Files":  36073
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3\\Library",
+                                 "Parent":  643,
+                                 "Bytes":  3144671041,
+                                 "Files":  28144
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\Documents\\2026\\4-1",
+                                 "Parent":  35030,
+                                 "Bytes":  3033546763,
+                                 "Files":  4013
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Local\\pip",
+                                 "Parent":  35021,
+                                 "Bytes":  2835372115,
+                                 "Files":  1068
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\.cache",
+                                 "Parent":  132,
+                                 "Bytes":  2176847843,
+                                 "Files":  27907
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes",
+                                 "Parent":  630,
+                                 "Bytes":  2167866339,
+                                 "Files":  27900
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\Documents\\2026\\ETRI",
+                                 "Parent":  35030,
+                                 "Bytes":  2153318729,
+                                 "Files":  2020
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Local\\Programs",
+                                 "Parent":  35021,
+                                 "Bytes":  1905193621,
+                                 "Files":  3481
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3\\Lib",
+                                 "Parent":  643,
+                                 "Bytes":  1902724032,
+                                 "Files":  79289
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3\\Lib\\site-packages",
+                                 "Parent":  35011,
+                                 "Bytes":  1874352833,
+                                 "Files":  77785
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\.codex",
+                                 "Parent":  132,
+                                 "Bytes":  1680281483,
+                                 "Files":  8252
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\anaconda3\\Library\\bin",
+                                 "Parent":  35012,
+                                 "Bytes":  1676894859,
+                                 "Files":  752
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code",
+                                 "Parent":  35023,
+                                 "Bytes":  1485005663,
+                                 "Files":  22693
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\.cache\\codex-runtimes\\codex-primary-runtime",
+                                 "Parent":  34954,
+                                 "Bytes":  1444890171,
+                                 "Files":  22431
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver",
+                                 "Parent":  35021,
+                                 "Bytes":  1324719364,
+                                 "Files":  4838
+                             },
+                             {
+                                 "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom",
+                                 "Parent":  35023,
+                                 "Bytes":  1174793025,
+                                 "Files":  3039
+                             }
+                         ],
+    "Candidates":  [
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\pip\\cache",
+                           "Parent":  57253,
+                           "Bytes":  2835372115,
+                           "Files":  1068
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\Documents\\2026\\ETRI\\JH_folder\\.vs",
+                           "Parent":  68535,
+                           "Bytes":  1685506500,
+                           "Files":  11
+                       },
+                       {
+                           "Path":  "C:\\ProgramData\\LogiOptionsPlus\\cache",
+                           "Parent":  111,
+                           "Bytes":  801323371,
+                           "Files":  30
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Partitions\\notion\\Cache",
+                           "Parent":  100564,
+                           "Bytes":  413072188,
+                           "Files":  2076
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\Default\\Cache",
+                           "Parent":  159155,
+                           "Bytes":  378976529,
+                           "Files":  750
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Adobe\\Acrobat\\AVWebview2\\DC\\EBWebView\\Default\\Cache",
+                           "Parent":  181537,
+                           "Bytes":  334674711,
+                           "Files":  1111
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Code Cache",
+                           "Parent":  159123,
+                           "Bytes":  318274714,
+                           "Files":  9492
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\EBWebView\\Default\\Code Cache",
+                           "Parent":  228703,
+                           "Bytes":  259437168,
+                           "Files":  4068
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Cache",
+                           "Parent":  159123,
+                           "Bytes":  240776823,
+                           "Files":  1286
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\EBWebView\\Default\\Cache",
+                           "Parent":  228703,
+                           "Bytes":  234059595,
+                           "Files":  743
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\discord\\Cache",
+                           "Parent":  57282,
+                           "Bytes":  200097690,
+                           "Files":  708
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Profile 1\\Cache",
+                           "Parent":  136506,
+                           "Bytes":  185507218,
+                           "Files":  639
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\npm-cache\\_cacache",
+                           "Parent":  57248,
+                           "Bytes":  178302367,
+                           "Files":  6
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache",
+                           "Parent":  137171,
+                           "Bytes":  172631079,
+                           "Files":  319
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\Code Cache",
+                           "Parent":  159218,
+                           "Bytes":  148807623,
+                           "Files":  3940
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Kakao\\KakaoTalk\\users\\9189eb89245d9d5388408425d6ad33f6218c8c35\\wv\\EBWebView\\Default\\Cache",
+                           "Parent":  206568,
+                           "Bytes":  141675901,
+                           "Files":  575
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Temp",
+                           "Parent":  35021,
+                           "Bytes":  119457201,
+                           "Files":  55
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\Default\\Cache",
+                           "Parent":  233601,
+                           "Bytes":  114657399,
+                           "Files":  197
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\pkgs\\cache",
+                           "Parent":  35016,
+                           "Bytes":  109813125,
+                           "Files":  12
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Antigravity\\CachedData",
+                           "Parent":  57276,
+                           "Bytes":  97203279,
+                           "Files":  83
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\CrashDumps",
+                           "Parent":  35021,
+                           "Bytes":  94342017,
+                           "Files":  10
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Adobe\\Acrobat\\AVWebview2\\DC\\EBWebView\\Default\\Code Cache",
+                           "Parent":  181537,
+                           "Bytes":  92880148,
+                           "Files":  1293
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Steam\\htmlcache\\Default\\Cache",
+                           "Parent":  100307,
+                           "Bytes":  85254367,
+                           "Files":  543
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Riot Client\\Cache",
+                           "Parent":  57293,
+                           "Bytes":  82492781,
+                           "Files":  63
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\Cache",
+                           "Parent":  159218,
+                           "Bytes":  81448658,
+                           "Files":  606
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Shared Dictionary\\cache",
+                           "Parent":  158558,
+                           "Bytes":  81400785,
+                           "Files":  939
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\Default\\Code Cache",
+                           "Parent":  233601,
+                           "Bytes":  78324568,
+                           "Files":  756
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\.codex\\cache",
+                           "Parent":  632,
+                           "Bytes":  76594552,
+                           "Files":  4
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Code Cache",
+                           "Parent":  159301,
+                           "Bytes":  69902766,
+                           "Files":  765
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_zoomapps_udcasbfbrfo_22a1upgb6g\\Code Cache",
+                           "Parent":  183931,
+                           "Bytes":  65101194,
+                           "Files":  86
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_commonwebapp_default\\Code Cache",
+                           "Parent":  183928,
+                           "Bytes":  62979909,
+                           "Files":  239
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Copilot\\User Data\\Default\\Cache",
+                           "Parent":  136200,
+                           "Bytes":  62736171,
+                           "Files":  403
+                       },
+                       {
+                           "Path":  "C:\\Work\\assignment_0\\.vs",
+                           "Parent":  225,
+                           "Bytes":  60754963,
+                           "Files":  10
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Cache",
+                           "Parent":  159331,
+                           "Bytes":  60245189,
+                           "Files":  606
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\Default\\Cache",
+                           "Parent":  219776,
+                           "Bytes":  55496707,
+                           "Files":  154
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\glic\\66A834677761\\Code Cache",
+                           "Parent":  218949,
+                           "Bytes":  53617048,
+                           "Files":  170
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Cache",
+                           "Parent":  159301,
+                           "Bytes":  51702748,
+                           "Files":  484
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\.codex\\plugins\\cache",
+                           "Parent":  34982,
+                           "Bytes":  48522758,
+                           "Files":  1019
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Code Cache",
+                           "Parent":  159331,
+                           "Bytes":  47651943,
+                           "Files":  418
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\0\\EBWebView\\Default\\Code Cache",
+                           "Parent":  233579,
+                           "Bytes":  47566812,
+                           "Files":  178
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache",
+                           "Parent":  136123,
+                           "Bytes":  40890696,
+                           "Files":  304
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\0\\EBWebView\\Default\\Cache",
+                           "Parent":  233579,
+                           "Bytes":  40116983,
+                           "Files":  26
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Profile 1\\Shared Dictionary\\cache",
+                           "Parent":  159091,
+                           "Bytes":  36742327,
+                           "Files":  503
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Copilot\\User Data\\Default\\Code Cache",
+                           "Parent":  136200,
+                           "Bytes":  28781667,
+                           "Files":  1778
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Profile 1\\Code Cache",
+                           "Parent":  136506,
+                           "Bytes":  26247889,
+                           "Files":  999
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\Default\\Code Cache",
+                           "Parent":  159155,
+                           "Bytes":  26101682,
+                           "Files":  84
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\obsidian\\Code Cache",
+                           "Parent":  57291,
+                           "Bytes":  24872328,
+                           "Files":  50
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Default\\Cache",
+                           "Parent":  136494,
+                           "Bytes":  24674899,
+                           "Files":  19
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\obsidian\\Cache",
+                           "Parent":  57291,
+                           "Bytes":  24090119,
+                           "Files":  9
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Cache",
+                           "Parent":  136228,
+                           "Bytes":  23375086,
+                           "Files":  132
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Steam\\htmlcache\\Default\\Code Cache",
+                           "Parent":  100307,
+                           "Bytes":  22175454,
+                           "Files":  319
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\glic\\66A834677761\\Cache",
+                           "Parent":  218949,
+                           "Bytes":  21207253,
+                           "Files":  66
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\Cache",
+                           "Parent":  159354,
+                           "Bytes":  19121356,
+                           "Files":  9
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\logioptionsplus\\Cache",
+                           "Parent":  57286,
+                           "Bytes":  18271798,
+                           "Files":  13
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Cache",
+                           "Parent":  57288,
+                           "Bytes":  17575792,
+                           "Files":  8
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Partitions\\cowork-file-preview\\Cache",
+                           "Parent":  207064,
+                           "Bytes":  17575792,
+                           "Files":  8
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\LocalLow\\Intel\\ShaderCache",
+                           "Parent":  57271,
+                           "Bytes":  15788669,
+                           "Files":  245
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\Partitions\\launch-preview-cowork-shared\\Cache",
+                           "Parent":  207065,
+                           "Bytes":  15621530,
+                           "Files":  51
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\E046963F.LenovoCompanion_k1h2ywk1493x8\\LocalState\\UDF\\EBWebView\\GrShaderCache",
+                           "Parent":  159141,
+                           "Bytes":  14618976,
+                           "Files":  68
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\CachedData",
+                           "Parent":  57279,
+                           "Bytes":  14574603,
+                           "Files":  16
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Cyberlink\\AudioDirector\\16.0\\Temp",
+                           "Parent":  99465,
+                           "Bytes":  14474880,
+                           "Files":  8
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\GrShaderCache",
+                           "Parent":  136598,
+                           "Bytes":  14163128,
+                           "Files":  41
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Sublime Text\\Cache",
+                           "Parent":  57264,
+                           "Bytes":  13147234,
+                           "Files":  430
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\contextual-tasks\\5424333CE73F\\Cache",
+                           "Parent":  218948,
+                           "Bytes":  12555367,
+                           "Files":  60
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Antigravity\\Cache",
+                           "Parent":  57276,
+                           "Bytes":  12389748,
+                           "Files":  51
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Partitions\\notion\\Code Cache",
+                           "Parent":  100564,
+                           "Bytes":  12144419,
+                           "Files":  109
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Notion\\Partitions\\notion\\Shared Dictionary\\cache",
+                           "Parent":  137402,
+                           "Bytes":  11411310,
+                           "Files":  977
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\Cache",
+                           "Parent":  219383,
+                           "Bytes":  11245061,
+                           "Files":  51
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\E046963F.LenovoCompanion_k1h2ywk1493x8\\LocalState\\UDF\\EBWebView\\Default\\Code Cache",
+                           "Parent":  182439,
+                           "Bytes":  11178069,
+                           "Files":  348
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_commonwebapp_default\\Cache",
+                           "Parent":  183928,
+                           "Bytes":  10896302,
+                           "Files":  46
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Naver\\Naver Whale\\User Data\\GrShaderCache",
+                           "Parent":  99621,
+                           "Bytes":  10875032,
+                           "Files":  89
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\GrShaderCache",
+                           "Parent":  207263,
+                           "Bytes":  10756788,
+                           "Files":  81
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\GrShaderCache",
+                           "Parent":  228698,
+                           "Bytes":  10155496,
+                           "Files":  54
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\EBWebView\\GrShaderCache",
+                           "Parent":  219403,
+                           "Bytes":  9578680,
+                           "Files":  37
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\Code Cache",
+                           "Parent":  219383,
+                           "Bytes":  9566884,
+                           "Files":  65
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView\\GrShaderCache",
+                           "Parent":  136966,
+                           "Bytes":  9557340,
+                           "Files":  36
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache",
+                           "Parent":  136123,
+                           "Bytes":  9437666,
+                           "Files":  467
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\E046963F.LenovoCompanion_k1h2ywk1493x8\\LocalState\\UDF\\EBWebView\\Default\\Cache",
+                           "Parent":  182439,
+                           "Bytes":  9086745,
+                           "Files":  43
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Lenovo\\Vantage\\AddinData\\LenovoMachineFixUserAddin\\LenovoMachineFixUserAddin\\EBWebView\\Default\\Code Cache",
+                           "Parent":  206590,
+                           "Bytes":  8365899,
+                           "Files":  158
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\Lib\\site-packages\\matplotlib\\__pycache__",
+                           "Parent":  66028,
+                           "Bytes":  8127606,
+                           "Files":  152
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\pkgs\\matplotlib-base-3.10.6-py313h26e45b9_1\\Lib\\site-packages\\matplotlib\\__pycache__",
+                           "Parent":  134777,
+                           "Bytes":  8127606,
+                           "Files":  152
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\Lib\\site-packages\\numpy\\_core\\tests\\__pycache__",
+                           "Parent":  132184,
+                           "Bytes":  7606274,
+                           "Files":  134
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\pkgs\\numpy-base-2.3.5-py313h1e017a8_0\\Lib\\site-packages\\numpy\\_core\\tests\\__pycache__",
+                           "Parent":  178522,
+                           "Bytes":  7606274,
+                           "Files":  134
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView\\GrShaderCache",
+                           "Parent":  136990,
+                           "Bytes":  7425196,
+                           "Files":  142
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Edge\\User Data\\GrShaderCache",
+                           "Parent":  99505,
+                           "Bytes":  7003888,
+                           "Files":  64
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\Default\\Code Cache",
+                           "Parent":  183911,
+                           "Bytes":  6697766,
+                           "Files":  39
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\CyberLink\\WebView\\Trial.exe\\5\\EBWebView\\Default\\Cache",
+                           "Parent":  183833,
+                           "Bytes":  6597695,
+                           "Files":  19
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\Default\\Partitions\\codex-browser-app\\Cache",
+                           "Parent":  233940,
+                           "Bytes":  6556784,
+                           "Files":  11
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\Lib\\site-packages\\scipy\\stats\\__pycache__",
+                           "Parent":  95349,
+                           "Bytes":  6538849,
+                           "Files":  122
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\pkgs\\scipy-1.16.3-py313hbd6d557_0\\Lib\\site-packages\\scipy\\stats\\__pycache__",
+                           "Parent":  157862,
+                           "Bytes":  6538849,
+                           "Files":  122
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Code\\Cache",
+                           "Parent":  57279,
+                           "Bytes":  6146393,
+                           "Files":  8
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\CyberLink\\WebView\\CLUpdater.exe\\3\\EBWebView\\Default\\Cache",
+                           "Parent":  183815,
+                           "Bytes":  6135037,
+                           "Files":  8
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Roaming\\Zoom\\data\\WebviewCacheX64\\wypymqekqhavz1mdr-w2wq\\EBWebView\\WV2Profile_zoomapps_udcasbfbrfo_22a1upgb6g\\Cache",
+                           "Parent":  183931,
+                           "Bytes":  6099336,
+                           "Files":  7
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Roaming\\Codex\\web\\Codex\\codex-browser-app\\Cache",
+                           "Parent":  219772,
+                           "Bytes":  6099332,
+                           "Files":  7
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\Lib\\site-packages\\numba\\tests\\__pycache__",
+                           "Parent":  94988,
+                           "Bytes":  6086935,
+                           "Files":  226
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\pkgs\\numba-0.62.1-py313hf6ff4c0_0\\Lib\\site-packages\\numba\\tests\\__pycache__",
+                           "Parent":  156445,
+                           "Bytes":  6086935,
+                           "Files":  226
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\Lib\\site-packages\\matplotlib\\tests\\__pycache__",
+                           "Parent":  94804,
+                           "Bytes":  6067621,
+                           "Files":  186
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\anaconda3\\pkgs\\matplotlib-base-3.10.6-py313h26e45b9_1\\Lib\\site-packages\\matplotlib\\tests\\__pycache__",
+                           "Parent":  156184,
+                           "Bytes":  6067621,
+                           "Files":  186
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Packages\\GoodnotesLimited.GoodNotesforWindows_wjqdg2qn10y2j\\LocalState\\EBWebView\\Default\\GPUCache",
+                           "Parent":  159155,
+                           "Bytes":  5986928,
+                           "Files":  14
+                       },
+                       {
+                           "Path":  "C:\\Users\\JH\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\4d5dc237-0c15-4392-8754-dff9023e9d94_ADAL\\2\\1\\EBWebView\\Default\\GPUCache",
+                           "Parent":  233601,
+                           "Bytes":  5920648,
+                           "Files":  9
+                       }
+                   ],
+    "UnreadableDirectories":  200,
+    "ReparseSkipped":  996,
+    "TimedOut":  false
+}

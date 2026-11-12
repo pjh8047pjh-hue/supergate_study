@@ -1,0 +1,93 @@
+# do sim.do
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:13 on Nov 02,2026
+# vlog ../tb/i2c_master/i2c_master_bit_ctrl.v 
+# -- Compiling module i2c_master_bit_ctrl
+# 
+# Top level modules:
+# 	i2c_master_bit_ctrl
+# End time: 07:54:13 on Nov 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:13 on Nov 02,2026
+# vlog ../tb/i2c_master/i2c_master_byte_ctrl.v 
+# -- Compiling module i2c_master_byte_ctrl
+# 
+# Top level modules:
+# 	i2c_master_byte_ctrl
+# End time: 07:54:13 on Nov 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:13 on Nov 02,2026
+# vlog ../tb/i2c_master/i2c_master_top.v 
+# -- Compiling module i2c_master_top
+# 
+# Top level modules:
+# 	i2c_master_top
+# End time: 07:54:13 on Nov 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:13 on Nov 02,2026
+# vlog ../rtl/ass_i2c_slave_rx_ctrl.v 
+# -- Compiling module ass_i2c_slave_rx_ctrl
+# 
+# Top level modules:
+# 	ass_i2c_slave_rx_ctrl
+# End time: 07:54:13 on Nov 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:13 on Nov 02,2026
+# vlog ../rtl/ass_i2c_slave_rx.v 
+# -- Compiling module ass_i2c_slave_rx
+# 
+# Top level modules:
+# 	ass_i2c_slave_rx
+# End time: 07:54:13 on Nov 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:13 on Nov 02,2026
+# vlog ../rtl/ass_i2c_slave_rf.v 
+# -- Compiling module ass_i2c_slave_rf
+# 
+# Top level modules:
+# 	ass_i2c_slave_rf
+# End time: 07:54:14 on Nov 02,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:14 on Nov 02,2026
+# vlog ../rtl/ass_i2c_slave.v 
+# -- Compiling module ass_i2c_slave
+# 
+# Top level modules:
+# 	ass_i2c_slave
+# End time: 07:54:14 on Nov 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:54:14 on Nov 02,2026
+# vlog ../tb/tb_rx.v 
+# -- Compiling module tb_rx
+# 
+# Top level modules:
+# 	tb_rx
+# End time: 07:54:14 on Nov 02,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_rx 
+# Start time: 07:54:14 on Nov 02,2026
+# Loading work.tb_rx
+# Loading work.i2c_master_top
+# Loading work.i2c_master_byte_ctrl
+# Loading work.i2c_master_bit_ctrl
+# Loading work.ass_i2c_slave
+# Loading work.ass_i2c_slave_rx
+# Loading work.ass_i2c_slave_rx_ctrl
+# Loading work.ass_i2c_slave_rf
+#  foreach {address expected} {10 f5 11 fb 12 77 13 88 2 55 3 aa 5 66 6 bb} {set actual [examine -radix hex sim:/tb_rx/dut/u_rf/mem($address)]; if {![string equal -nocase $actual $expected]} {echo FAIL:mem($address)=$actual; quit -code 1 -force}}
+#  if {![string equal -nocase [examine -radix hex sim:/tb_rx/rdata] fb]} {echo FAIL:read_data; quit -code 1 -force}
+#  echo PASS:original_TB_memory_and_readback
+# PASS:original_TB_memory_and_readback
+#  quit -code 0 -force
+# End time: 07:54:15 on Nov 02,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

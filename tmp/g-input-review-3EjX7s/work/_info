@@ -1,0 +1,174 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/tmp/g-input-review-3EjX7s
+vblake
+Z1 !s110 1791780833
+!i10b 1
+!s100 ;O^>a9bWbomTRRV@0W1_?2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=B;_@686RZ4la<S[EkWMZ0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1791780833
+8C:\Work\assignment_1\blake_RTL.v
+FC:\Work\assignment_1\blake_RTL.v
+!i122 3
+L0 4 242
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1791780833.000000
+!s107 C:\Work\assignment_1\tb.v|C:\Work\assignment_1\blake_RTL.v|C:\Work\assignment_1\G_function.v|C:\Work\assignment_1\state_mux.v|C:\Work\assignment_1\msg_mux.v|C:\Work\assignment_1\blake_counter.v|C:\Work\assignment_1\blake_FSM.v|
+Z7 !s90 -work|C:\Work\tmp\g-input-review-3EjX7s\work|C:\Work\assignment_1\blake_FSM.v|C:\Work\assignment_1\blake_counter.v|C:\Work\assignment_1\msg_mux.v|C:\Work\assignment_1\state_mux.v|C:\Work\assignment_1\G_function.v|C:\Work\assignment_1\blake_RTL.v|C:\Work\assignment_1\tb.v|
+!i113 1
+Z8 o-work {C:\Work\tmp\g-input-review-3EjX7s\work}
+Z9 tCvgOpt 0
+vblake_counter
+R1
+!i10b 1
+!s100 :;Xg=5OcGVk2G4QOAk[V`0
+R2
+IQH`UBnENJXz66`4GlZjGD2
+R3
+R0
+w1791777648
+8C:\Work\assignment_1\blake_counter.v
+FC:\Work\assignment_1\blake_counter.v
+!i122 3
+L0 2 26
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 C:\Work\assignment_1\tb.v|C:\Work\assignment_1\blake_RTL.v|C:\Work\assignment_1\G_function.v|C:\Work\assignment_1\state_mux.v|C:\Work\assignment_1\msg_mux.v|C:\Work\assignment_1\blake_counter.v|C:\Work\assignment_1\blake_FSM.v|
+R7
+!i113 1
+R8
+R9
+vblake_FSM
+R1
+!i10b 1
+!s100 ]fAOefJbMcU7>oBQ7lMkS2
+R2
+IP`K>@_d7HGM```IZJf=8c2
+R3
+R0
+R4
+8C:\Work\assignment_1\blake_FSM.v
+FC:\Work\assignment_1\blake_FSM.v
+!i122 3
+L0 2 85
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+nblake_@f@s@m
+vG_function
+R1
+!i10b 1
+!s100 VS;1;^@<?2B]hkMS5>Q2Y0
+R2
+I<?<n_L]fKADW?11[JWfGV3
+R3
+R0
+w1791780428
+8C:\Work\assignment_1\G_function.v
+FC:\Work\assignment_1\G_function.v
+!i122 3
+L0 1 60
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+n@g_function
+vmsg_mux
+R1
+!i10b 1
+!s100 XTFU2b^jE]:a@[KH[C`Ek2
+R2
+IO4SLg?IPSRKkK`77fQBc_3
+R3
+R0
+w1791777647
+8C:\Work\assignment_1\msg_mux.v
+FC:\Work\assignment_1\msg_mux.v
+!i122 3
+L0 2 95
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vstate_mux
+R1
+!i10b 1
+!s100 c?bf_2oYNeeVWeljS1IQQ0
+R2
+Ic8QX4TWdZ^n=1S`2IMdhG3
+R3
+R0
+w1791780571
+8C:\Work\assignment_1\state_mux.v
+FC:\Work\assignment_1\state_mux.v
+!i122 3
+L0 1 29
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vtb
+R1
+!i10b 1
+!s100 4^l_K2WV8E6DekQRn]1k<2
+R2
+IYTzJBG=8EzHHkE7OD9A[a0
+R3
+R0
+w1791777649
+8C:\Work\assignment_1\tb.v
+FC:\Work\assignment_1\tb.v
+!i122 3
+L0 4 94
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9

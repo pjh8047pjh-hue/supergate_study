@@ -1,0 +1,517 @@
+[
+  {
+    "gap": 64,
+    "firstInputNs": 635,
+    "inputCycles": [
+      0,
+      64,
+      128
+    ],
+    "loadG0": [
+      0,
+      128
+    ],
+    "loadG1": [
+      64
+    ],
+    "outputCycles": [
+      127,
+      191,
+      255
+    ],
+    "hashes": [
+      "H0",
+      "H1",
+      "H2"
+    ],
+    "stateChanges": [
+      {
+        "cycle": -1,
+        "value": "IDLE"
+      },
+      {
+        "cycle": 0,
+        "value": "RUN_G0"
+      },
+      {
+        "cycle": 64,
+        "value": "RUN_BOTH"
+      },
+      {
+        "cycle": 192,
+        "value": "RUN_G0"
+      },
+      {
+        "cycle": 256,
+        "value": "IDLE"
+      }
+    ],
+    "detailSamples": [
+      {
+        "cycle": 124,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 124,
+        "counter_g1": 60,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S124",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 125,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 125,
+        "counter_g1": 61,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S125",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 126,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 126,
+        "counter_g1": 62,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S126",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 127,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 127,
+        "counter_g1": 63,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S127",
+        "rdy": 1,
+        "dout": "H0"
+      },
+      {
+        "cycle": 128,
+        "ena": 1,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 0,
+        "counter_g1": 64,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "IV",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 129,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 1,
+        "counter_g1": 65,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T1",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 130,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 2,
+        "counter_g1": 66,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T2",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 131,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 3,
+        "counter_g1": 67,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T3",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 132,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 4,
+        "counter_g1": 68,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T4",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 133,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 5,
+        "counter_g1": 69,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T5",
+        "rdy": 0,
+        "dout": "0"
+      }
+    ]
+  },
+  {
+    "gap": 65,
+    "firstInputNs": 645,
+    "inputCycles": [
+      0,
+      65,
+      130
+    ],
+    "loadG0": [
+      0,
+      130
+    ],
+    "loadG1": [
+      65
+    ],
+    "outputCycles": [
+      127,
+      192,
+      257
+    ],
+    "hashes": [
+      "H0",
+      "H1",
+      "H2"
+    ],
+    "stateChanges": [
+      {
+        "cycle": -1,
+        "value": "IDLE"
+      },
+      {
+        "cycle": 0,
+        "value": "RUN_G0"
+      },
+      {
+        "cycle": 65,
+        "value": "RUN_BOTH"
+      },
+      {
+        "cycle": 128,
+        "value": "RUN_G1"
+      },
+      {
+        "cycle": 130,
+        "value": "RUN_BOTH"
+      },
+      {
+        "cycle": 193,
+        "value": "RUN_G0"
+      },
+      {
+        "cycle": 258,
+        "value": "IDLE"
+      }
+    ],
+    "detailSamples": [
+      {
+        "cycle": 124,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 124,
+        "counter_g1": 59,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S124",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 125,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 125,
+        "counter_g1": 60,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S125",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 126,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 126,
+        "counter_g1": 61,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S126",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 127,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 127,
+        "counter_g1": 62,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S127",
+        "rdy": 1,
+        "dout": "H0"
+      },
+      {
+        "cycle": 128,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 63,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 129,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 64,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 130,
+        "ena": 1,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 0,
+        "counter_g1": 65,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "IV",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 131,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 1,
+        "counter_g1": 66,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T1",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 132,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 2,
+        "counter_g1": 67,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T2",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 133,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 3,
+        "counter_g1": 68,
+        "init_g0": 0,
+        "msg_g0": "M2",
+        "state_0": "T3",
+        "rdy": 0,
+        "dout": "0"
+      }
+    ]
+  },
+  {
+    "gap": 63,
+    "firstInputNs": 625,
+    "inputCycles": [
+      0,
+      63,
+      126
+    ],
+    "loadG0": [
+      0
+    ],
+    "loadG1": [
+      63
+    ],
+    "outputCycles": [
+      127,
+      190
+    ],
+    "hashes": [
+      "H0",
+      "H1"
+    ],
+    "stateChanges": [
+      {
+        "cycle": -1,
+        "value": "IDLE"
+      },
+      {
+        "cycle": 0,
+        "value": "RUN_G0"
+      },
+      {
+        "cycle": 63,
+        "value": "RUN_BOTH"
+      },
+      {
+        "cycle": 128,
+        "value": "RUN_G1"
+      },
+      {
+        "cycle": 191,
+        "value": "IDLE"
+      }
+    ],
+    "detailSamples": [
+      {
+        "cycle": 124,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 124,
+        "counter_g1": 61,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S124",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 125,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 125,
+        "counter_g1": 62,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S125",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 126,
+        "ena": 1,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 126,
+        "counter_g1": 63,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S126",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 127,
+        "ena": 0,
+        "current_state": "RUN_BOTH",
+        "counter_g0": 127,
+        "counter_g1": 64,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S127",
+        "rdy": 1,
+        "dout": "H0"
+      },
+      {
+        "cycle": 128,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 65,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 129,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 66,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 130,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 67,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 131,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 68,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 132,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 69,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      },
+      {
+        "cycle": 133,
+        "ena": 0,
+        "current_state": "RUN_G1",
+        "counter_g0": 0,
+        "counter_g1": 70,
+        "init_g0": 0,
+        "msg_g0": "M0",
+        "state_0": "S128",
+        "rdy": 0,
+        "dout": "0"
+      }
+    ]
+  }
+]
