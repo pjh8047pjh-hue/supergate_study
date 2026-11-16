@@ -4,12 +4,12 @@ module uart_edge_detecter (
 	input ser_in,
 
 	output ser_sync,
+	output ser_rise,
 	output ser_fall
 );
 
 //=============================================================================
 // edge detecter
-wire ser_rise;
 
 reg  [1:0] ser_d2; 
 
@@ -21,6 +21,7 @@ always @(posedge clk or negedge rstb) begin
  	end
 end
 
+assign ser_rise = (ser_d2[0] && ~ser_d2[1]);
 assign ser_sync = ser_d2[1];
 assign ser_fall = (~ser_d2[0] &&  ser_d2[1]);
 //=============================================================================

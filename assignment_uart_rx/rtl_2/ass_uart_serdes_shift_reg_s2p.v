@@ -16,7 +16,7 @@ always @(posedge clk or negedge rstb) begin
     end
     else if (sampling) begin
         shift_reg <= {serial_in, shift_reg[7:1]};
-    end
+    end 
 end
 
 assign parallel_out = data_en ? shift_reg : 8'b0;

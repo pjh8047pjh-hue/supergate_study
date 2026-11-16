@@ -23,7 +23,7 @@ always @(posedge clk or negedge rstb) begin
     if (~rstb) begin
         cmd <= 2'b0;
     end
-    else if (init_cmd) begin
+    else if (init_cmd && rx_ren_d) begin
         cmd <= rx_rdata[5:4];
     end
 end

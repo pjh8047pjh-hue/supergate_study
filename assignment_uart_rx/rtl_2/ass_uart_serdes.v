@@ -4,15 +4,18 @@ module ass_uart_serdes (
 	input  wire 	  ser_in,
 	input  wire 	  rx_full,
 	input  wire   	  tx_empty,
-	input  reg  [7:0] tx_rdata,
+	input  wire [7:0] tx_rdata,
+    input  wire [15:0] baud_freq,
+    input  wire [15:0] baud_limit,
 	
 	output wire 	  ser_out,
 	output wire  	  tx_ren,
 	output wire	 	  rx_wen,
-	output reg  [7:0] rx_wdata
+	output wire [7:0] rx_wdata
 );
 //=============================================================================
 wire ser_fall;
+wire ser_rise;
 wire ser_sync;
 
 uart_edge_detecter u_edge_detecter(
@@ -20,6 +23,7 @@ uart_edge_detecter u_edge_detecter(
 	.rstb	 (rstb),  
 	.ser_in  (ser_in),
 
+	.ser_rise(ser_rise),
 	.ser_sync(ser_sync),
 	.ser_fall(ser_fall)
 );
@@ -35,6 +39,8 @@ ass_uart_serdes_baud_gen u_baud_gen_rx(
 	.rstb   (rstb),  
 	.start  (rx_start),
 	.rx_busy(rx_busy),
+    .baud_freq(baud_freq),
+    .baud_limit(baud_limit),
 
 	.bclk   (rx_bclk)
 );
@@ -77,6 +83,7 @@ ass_uart_serdes_shift_reg_s2p u_shift_reg_s2p(
 assign rx_wen = ~rx_full && rx_data_en;
 //=============================================================================
 wire tx_start;
+wire tx_busy;
 wire tx_bclk;
 wire [3:0] tx_cnt_bit;
 wire tx_update;
@@ -86,7 +93,9 @@ ass_uart_serdes_baud_gen u_baud_gen_tx(
 	.clk  (clk),   
 	.rstb (rstb),  
 	.start(tx_start),
-	.rx_busy(),
+	.rx_busy(tx_busy),
+    .baud_freq(baud_freq),
+    .baud_limit(baud_limit),
 
 	.bclk (tx_bclk)
 );
@@ -97,6 +106,7 @@ ass_uart_serdes_fsm_tx u_fsm_tx(
 	.data_en (tx_data_en),
     .tx_empty(tx_empty),
 	
+	.tx_busy (tx_busy),
 	.start   (tx_start)
 );
 
@@ -110,7 +120,7 @@ ass_uart_serdes_counter u_couter_tx(
 
 	.data_en  (tx_data_en),
 	.tx_update(tx_update),
-	.sampling (tx_sampling),
+	.sampling (),
 	.cnt_bit  (tx_cnt_bit)
 );
 
@@ -120,6 +130,7 @@ ass_uart_serdes_shift_reg_p2s u_shift_reg_p2s(
     .start 	    (tx_start),
     .parallel_in(tx_rdata),
     .cnt_bit    (tx_cnt_bit),
+    .tx_update  (tx_update),
     .data_en    (tx_data_en),
 
     .serial_out (ser_out)

@@ -5,6 +5,7 @@ module ass_uart_serdes_fsm_tx (
     input  tx_empty,
 	
 	output start,
+    output tx_busy
 );
 
 localparam IDLE     = 1'b0;
@@ -32,6 +33,7 @@ always @(*) begin
 	endcase
 end
 //=============================================================================
+assign tx_busy = (cstate == TRANSMIT);
 assign start  = (cstate == IDLE) && ~tx_empty;
 
 endmodule //: ass_uart_serdes_fsm

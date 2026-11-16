@@ -1,11 +1,10 @@
-module ass_uart_serdes_baud_gen #(
-    parameter [15:0] D_BAUD_LIMIT = 16'd2981
-    parameter [15:0] D_BAUD_FREQ  = 16'd144
-)(
+module ass_uart_serdes_baud_gen (
 	input clk,
 	input rstb,
 	input start,
 	input rx_busy,
+    input [15:0] baud_freq,
+    input [15:0] baud_limit,
 
 	output bclk
 );
@@ -18,13 +17,13 @@ always @(posedge clk or negedge rstb) begin
 	end else if(start) begin
 		cnt_baud <= 16'b0;
 	end else if(bclk) begin
-		cnt_baud <= cnt_baud - D_BAUD_LIMIT;
+		cnt_baud <= cnt_baud - baud_limit;
 	end else begin
-		cnt_baud <= cnt_baud + D_BAUD_FREQ;
+		cnt_baud <= cnt_baud + baud_freq;
 	end
 end
 
-assign bclk = rx_busy && (cnt_baud >= D_BAUD_LIMIT);
+assign bclk = rx_busy && (cnt_baud >= baud_limit);
 //=============================================================================
 
 endmodule// : ass_uart_serdes_baud_gen

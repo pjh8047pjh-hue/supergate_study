@@ -6,7 +6,6 @@ module ass_uart_slave_pkg_dec (
     input  wire [6:0] dev_addr,
     input  wire [7:0] rx_rdata,
     input  wire [7:0] rdata,
-    input  wire [7:0] cnt_data,
 
     output wire       we,
     output wire [7:0] wdata,
@@ -34,7 +33,6 @@ ass_uart_slave_pkg_dec_fsm u_pkg_dec_fsm (
     .tx_full    (tx_full),
     .mode       (mode),
     .addr_match (addr_match),
-    .cnt_data   (cnt_data),
     .length     (length),
 
     .we         (we),
