@@ -28,4 +28,4 @@ vsim -voptargs=+acc work.tb
 
 do wave.do
 
-run 5 ms
+run 20 ms
