@@ -62,7 +62,7 @@ initial begin
   run_i2c_master_top();
 
  // Read 8 bytes from slave address from 1 to 9
-  ctrl0 = {1'b1, 8'd8};
+  ctrl0 = {1'b1, 7'd8};
   ctrl2 = 8'd1;
   run_i2c_master_top();
 
