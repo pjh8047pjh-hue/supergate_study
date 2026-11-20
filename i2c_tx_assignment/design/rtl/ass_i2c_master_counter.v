@@ -2,12 +2,13 @@ module ass_i2c_master_counter (
     input  wire       clk,
     input  wire       reset_n,
     input  wire       start,
-    input  wire       done
+    input  wire       done,
+    input  wire [7:0] freq_i2c,
 
-    output wire       cnt_bit_max,
+    output wire       shift,
+    output wire       sampling,
     output reg  [6:0] cnt_byte,
-    output wire       scl_high,
-    output wire       scl_low,
+    output wire       scl_update
 );
 //=============================================================================
 reg start_en;
@@ -15,34 +16,36 @@ reg start_en;
 always @(posedge clk or negedge reset_n) begin
     if (!reset_n) begin
         start_en <= 1'b0;
-    end 
+    end     
+    else if (done) begin
+        start_en <= 1'b0;
+    end
     else if (start) begin
         start_en <= 1'b1;
     end
-    
-    if (done) begin
-        start_en <= 1'b0;
-    end
 end
 //=============================================================================
-wire cnt_bit_update = (cnt_clk == 7'd49);
 reg [6:0] cnt_clk;
+wire cnt_bit_update = (cnt_clk == 7'd49);
 
 always @(posedge clk or negedge reset_n) begin
     if (!reset_n) begin
         cnt_clk <= 7'b0;
     end
     else if (start_en) begin
-        if (cnt_clk == 7'd99) begin
-           cnt_clk <= 7'd0; 
+        if (cnt_clk == freq_i2c) begin
+           cnt_clk <= 7'd0;
         end
         else begin
             cnt_clk <= cnt_clk + 7'd1;
         end
     end
 end
+
+assign sampling = (cnt_clk == 7'd24) ? 1'b1 : 1'b0;
 //=============================================================================
 reg [3:0] cnt_bit;
+wire cnt_bit_max = (cnt_bit == 4'd8);
 
 always @(posedge clk or negedge reset_n) begin
     if (!reset_n) begin
@@ -58,8 +61,6 @@ always @(posedge clk or negedge reset_n) begin
         cnt_bit <= cnt_bit + 4'd1;
     end
 end
-
-assign cnt_bit_max = (cnt_bit == 4'd9);
 //=============================================================================
 always @(posedge clk or negedge reset_n) begin
     if (!reset_n) begin
@@ -73,7 +74,7 @@ always @(posedge clk or negedge reset_n) begin
     end
 end
 //=============================================================================
-assign scl_high = (cnt_clk < 50);
-assign scl_low  = (cnt_clk >= 50) && (cnt_clk < 100);
+assign scl_update = (cnt_clk == 7'd49) || (cnt_clk == 7'd99);
+assign shift      = (cnt_clk == 7'd74);
 
 endmodule

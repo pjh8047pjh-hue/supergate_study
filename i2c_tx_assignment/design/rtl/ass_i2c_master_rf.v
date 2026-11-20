@@ -5,7 +5,7 @@ module ass_i2c_master_rf (
     input  wire [7:0] wdata    
 );
 
-reg [7:0] rf [0:127]
+reg [7:0] rf [0:127];
 
 always @(posedge clk) begin
     if(we) begin

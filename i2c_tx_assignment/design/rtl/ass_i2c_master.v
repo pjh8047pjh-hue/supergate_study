@@ -15,10 +15,11 @@ module ass_i2c_master (
 
 // Processing bi-directional port
 wire sda_oe;
+wire scl_oe;
 wire sda_in = sda;
-assign sda = (sda_oe)? 1'b0: 1'bz;
 
-assign sda_oe = 1'b0;
+assign sda = (sda_oe)? 1'b0: 1'bz;
+assign scl = (scl_oe)? 1'b0: 1'bz;
 
 // ---------------------------------------------------------------
 // Control Register Description
@@ -29,10 +30,38 @@ assign sda_oe = 1'b0;
 // ctrl2  : [7:0] start address
 // start  : run i2c_master_top
 
+wire scl_update;
 
-// ---------------------------------------------------------------
-// RTL Coding ...
-// ---------------------------------------------------------------
+ass_i2c_master_scl_gen u_scl_gen (
+    .clk       (clk),
+    .reset_n   (rstb),
+    .scl_update(scl_update),
 
+    .scl_oe    (scl_oe)
+);
+
+wire sampling;
+wire shift;
+wire rw_bit;
+wire we;    
+wire [6:0] addr;
+wire sda_out_fsm;
+
+ass_i2c_master_tx_ctrl u_tx_ctrl(
+    .clk        (clk),
+    .reset_n    (rstb),
+    .start      (start),
+    .mode       (ctrl0[7]),
+    .length     (ctrl0[6:0]),
+    .start_addr (ctrl2),
+    .sampling   (sampling),
+    .shift      (shift),
+
+    .rw_bit     (rw_bit),
+    .we         (we),
+    .done       (done),
+    .addr       (addr),
+    .sda_out_fsm(sda_out_fsm)
+);
 
 endmodule
